@@ -3054,8 +3054,8 @@
       "ru": "Пробный экзамен · на французском"
     },
     "description": {
-      "fr": "21 questions fondées sur les QCM, exercices et cas pratiques fournis. Durée conseillée : 2 heures. Les réponses ouvertes sont contrôlées par mots-clés et accompagnées d’une réponse modèle.",
-      "ru": "21 вопрос по тестам, упражнениям и практическим задачам из документов. Рекомендуемое время — 2 часа. Открытые ответы проверяются по ключевым словам и сопровождаются образцом ответа."
+      "fr": "21 questions fondées sur les QCM, exercices et cas pratiques fournis. Les réponses ouvertes sont contrôlées par mots-clés et accompagnées d’une réponse modèle.",
+      "ru": "21 вопрос по тестам, упражнениям и практическим задачам из документов. Открытые ответы проверяются по ключевым словам и сопровождаются образцом ответа."
     },
     "minutes": 45,
     "questions": [
