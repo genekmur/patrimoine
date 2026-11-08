@@ -118,63 +118,143 @@
       "blocks": [
         {
           "h": {
-            "fr": "Le patrimoine informatique",
-            "ru": "Информационное наследие"
+            "fr": "Carte générale du cours",
+            "ru": "Общая карта курса"
           },
           "t": {
-            "fr": "Le logiciel et la base de données sont étudiés comme des biens essentiels aux procédures, fonctions vitales et communications d’une entreprise. Le cours élargit ensuite la protection aux brevets, dessins et modèles, marques, noms de domaine et données personnelles.",
-            "ru": "ПО и база данных изучаются как важные ресурсы для процессов, ключевых функций и коммуникаций компании. Затем рассматриваются патенты, промышленные образцы, товарные знаки, домены и персональные данные."
-          }
+            "fr": "Le cours porte sur le droit du patrimoine informatique de l’entreprise : les actifs numériques utiles à l’activité ont une valeur, mais leur protection dépend de leur nature. Le plan annonce deux ensembles. La première partie étudie le logiciel et les œuvres numériques, puis la base de données et le nom de domaine. La seconde traite notamment des créations techniques et signes distinctifs (brevet, dessin ou modèle, marque), puis des données à caractère personnel. La navigation du site suit cette progression, car les numéros de leçons varient d’un diaporama à l’autre.",
+            "ru": "Курс посвящён правовой охране цифровых активов предприятия: цифровые ресурсы имеют ценность для деятельности, но способ охраны зависит от их природы. План состоит из двух частей. Первая рассматривает ПО и цифровые произведения, затем базы данных и доменные имена. Вторая посвящена техническим решениям и различительным обозначениям (патент, промышленный образец, товарный знак), а затем персональным данным. Навигация сайта следует плану, поскольку нумерация уроков в слайдах различается."
+          },
+          "sources": [
+            {
+              "file": "1-Plan du  cours  de  master  2 OPSIE 2026-2027.pdf",
+              "pages": [
+                1,
+                2,
+                3,
+                4,
+                5
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Deux branches",
-            "ru": "Две ветви"
+            "fr": "Что именно охраняет право",
+            "ru": "Что именно охраняет право"
           },
           "t": {
-            "fr": "La propriété littéraire et artistique comprend droit d’auteur et droits voisins. La propriété industrielle couvre créations industrielles (brevets, dessins/modèles) et signes distinctifs (marques, indications géographiques).",
-            "ru": "Литературная и художественная собственность включает авторское и смежные права. Промышленная собственность охватывает разработки (патенты, образцы) и отличительные обозначения (товарные знаки, географические указания)."
-          }
+            "fr": "Базовый навык курса — не начинать с названия актива, а определить объект охраны. В программе это может быть выражение кода; в базе — оригинальная структура и/или существенные вложения в содержание; в домене — обозначение и право использования адреса; в патенте — техническое изобретение; в промышленном образце — внешний вид; в товарном знаке — обозначение товаров или услуг; в персональных данных — информация о физическом лице и операции с ней. Совпадение одного объекта не решает вопрос о другом: у продукта возможны несколько параллельных режимов.",
+            "ru": "Главный навык курса — не начинать с названия актива, а определить объект правовой охраны. Для программы это может быть выражение кода; для базы — оригинальная структура и/или существенные вложения в содержание; для домена — обозначение и право использования адреса; для патента — техническое изобретение; для промышленного образца — внешний вид; для товарного знака — обозначение товаров или услуг; для персональных данных — сведения о физическом лице и действия с ними. Совпадение одного объекта не решает вопрос о другом: к одному продукту могут применяться несколько режимов."
+          },
+          "sources": [
+            {
+              "file": "1-Plan du  cours  de  master  2 OPSIE 2026-2027.pdf",
+              "pages": [
+                1,
+                2,
+                3,
+                4,
+                5
+              ]
+            },
+            {
+              "file": "2-Séance 01 -INTRODUCTION.pdf",
+              "pages": [
+                19,
+                20
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Repères historiques",
-            "ru": "Исторические ориентиры"
+            "fr": "Как читать исторические слайды",
+            "ru": "Как понимать исторические слайды"
           },
           "t": {
-            "fr": "La séance relie l’imprimerie de Gutenberg vers 1450 aux privilèges d’impression, puis cite le Statute of Anne (1710), les lois révolutionnaires françaises de 1791 et 1793 et la Convention de Berne (1886). Pour la propriété industrielle : Venise (1474) et la Convention de Paris (1883).",
-            "ru": "Лекция связывает книгопечатание Гутенберга около 1450 года с привилегиями на печать, затем называет Statute of Anne (1710), французские законы 1791 и 1793 годов и Бернскую конвенцию (1886). Для промышленной собственности названы Венеция (1474) и Парижская конвенция (1883)."
-          }
+            "fr": "Вводная лекция строит историческую линию авторского права вокруг появления печатного рынка. До массовой печати копирование и распространение выглядели иначе; после распространения типографий появились привилегии, которые давали отдельным печатникам исключительное положение. Позднее внимание переместилось от привилегии издателя к интересам автора и различению произведения и материального экземпляра. Запоминайте связь «технологическое изменение — новая проблема копирования — новая юридическая конструкция», а не только перечень имён и дат.",
+            "ru": "Вводная лекция связывает историю авторского права с возникновением рынка печатной продукции. До массовой печати копирование и распространение выглядели иначе; с распространением типографий возникли привилегии, дававшие отдельным печатникам исключительное положение. Позже внимание переместилось от привилегии издателя к интересам автора и различению произведения и материального экземпляра. Запоминайте связь «технологическое изменение — новая проблема копирования — новая правовая конструкция», а не только имена и даты."
+          },
+          "sources": [
+            {
+              "file": "2-Séance 01 -INTRODUCTION.pdf",
+              "pages": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                8
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Comment raisonner dans ce cours ?",
-            "ru": "Как рассуждать в этом курсе?"
+            "fr": "От привилегии к авторскому праву",
+            "ru": "От привилегии к авторскому праву"
           },
           "t": {
-            "fr": "Pour chaque situation, commencez par identifier l’objet (code, apparence, signe, base ou donnée), puis le droit mobilisable, ses conditions, son titulaire, son étendue et ses limites. Un même produit peut relever de plusieurs régimes si chaque régime protège un objet différent.",
-            "ru": "В каждой ситуации сначала определите объект (код, внешний вид, обозначение, база или данные), затем применимое право, его условия, правообладателя, объём охраны и ограничения. Один продукт может подпадать под несколько режимов, если каждый режим защищает отдельный объект."
-          }
+            "fr": "Слайды называют британские акты и спор книготорговцев, затем французские революционные нормы о спектаклях и произведениях, закон 1793 года, позднейшие французские законы и Бернскую конвенцию 1886 года. В логике лекции это постепенный переход: государственная монополия на печать уступает модели, где признаётся связь автора с созданием и устанавливаются права на использование. В ответе на экзамене не смешивайте право на нематериальное произведение с собственностью на купленную книгу или иной носитель.",
+            "ru": "Слайды называют британские акты и спор книготорговцев, затем французские революционные нормы о спектаклях и произведениях, закон 1793 года, более поздние французские законы и Бернскую конвенцию 1886 года. Логика лекции — постепенный переход от государственной монополии на печать к модели, признающей связь автора с созданием и права на использование. В ответе на экзамене не смешивайте право на нематериальное произведение с собственностью на купленную книгу или другой материальный носитель."
+          },
+          "sources": [
+            {
+              "file": "2-Séance 01 -INTRODUCTION.pdf",
+              "pages": [
+                7,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Deux grandes familles de protection",
-            "ru": "Две большие группы охраны"
+            "fr": "Промышленная собственность и регистрация",
+            "ru": "Промышленная собственность и регистрация"
           },
           "t": {
-            "fr": "Le plan oppose la propriété littéraire et artistique (notamment droit d’auteur et protection des bases) à la propriété industrielle (brevets, dessins et modèles, marques). Le nom de domaine et les données personnelles sont aussi étudiés comme outils et enjeux du patrimoine numérique de l’entreprise.",
-            "ru": "План различает литературу и искусство (в частности, авторское право и охрану баз данных) и промышленную собственность (патенты, промышленные образцы, товарные знаки). Доменные имена и персональные данные также рассматриваются как инструменты и вопросы цифрового имущества компании."
-          }
+            "fr": "Для промышленной собственности лекция приводит ранние привилегии на изобретения, венецианский акт 1474 года, английский Statute of Monopolies 1624 года, французские привилегии и революционные законы, а затем Парижскую конвенцию 1883 года. В отличие от автоматического возникновения авторского права, патент, промышленный образец и товарный знак в изложении курса строятся вокруг подачи заявки и регистрации компетентным ведомством. Сравнивайте цель исключительного права и публичное раскрытие/регистрацию, не делая из исторических дат вывод о современном сроке охраны.",
+            "ru": "Для промышленной собственности лекция приводит ранние привилегии на изобретения, венецианский акт 1474 года, английский Statute of Monopolies 1624 года, французские привилегии и революционные законы, затем Парижскую конвенцию 1883 года. В отличие от автоматического возникновения авторского права, патент, промышленный образец и товарный знак в изложении курса связаны с заявкой и регистрацией компетентным ведомством. Сопоставляйте цель исключительного права и публичную регистрацию, не выводя современный срок охраны только из исторической даты."
+          },
+          "sources": [
+            {
+              "file": "2-Séance 01 -INTRODUCTION.pdf",
+              "pages": [
+                15,
+                16,
+                17,
+                19,
+                20
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Repères historiques : comprendre la logique",
-            "ru": "Исторические ориентиры: понять логику"
+            "fr": "Два взгляда на исключительные права",
+            "ru": "Два взгляда на исключительные права"
           },
           "t": {
-            "fr": "Les supports relient l’imprimerie de Gutenberg (vers 1450), les privilèges d’imprimeurs, le Statute of Anne (1710), les textes révolutionnaires français, Berne et la Convention de Paris (1883). Ces repères expliquent le passage d’un contrôle de la copie à des droits attachés aux œuvres et aux inventions ; retenez la chronologie telle que présentée dans le cours.",
-            "ru": "Материалы связывают изобретение книгопечатания Гутенбергом (около 1450 года), привилегии печатников, Статут королевы Анны (1710), французские революционные законы, Бернскую конвенцию и Парижскую конвенцию (1883). Эти ориентиры показывают переход от контроля копирования к правам на произведения и изобретения; даты запоминайте в формулировках курса."
-          }
+            "fr": "Заключительный слайд перечисляет аргументы «за» и «против». Среди целей защиты названы стимулирование творчества и инноваций и борьба с подделками; среди критических возражений — искусственность исключительного присвоения идей и риск ренты/монополии. Это помогает понять баланс: право предоставляет ограниченное исключение из свободного использования, но очерчивает объект, срок, территорию и исключения. В каждом модуле курса поэтому изучаются не только запреты, но и пределы права.",
+            "ru": "Итоговый слайд перечисляет доводы «за» и «против». Среди целей охраны названы стимулирование творчества и инноваций, борьба с подделками; среди критических аргументов — искусственность исключительного присвоения идей и риск монопольной ренты. Это объясняет баланс: право создаёт ограниченное исключение из свободного использования, но определяет объект, срок, территорию и исключения. Поэтому в каждом модуле нужно изучать не только запреты, но и пределы права."
+          },
+          "sources": [
+            {
+              "file": "2-Séance 01 -INTRODUCTION.pdf",
+              "pages": [
+                18,
+                19,
+                20
+              ]
+            }
+          ]
         }
       ],
       "example": {
@@ -187,6 +267,7 @@
           "pages": [
             1,
             2,
+            3,
             4,
             5
           ]
@@ -195,9 +276,21 @@
           "file": "2-Séance 01 -INTRODUCTION.pdf",
           "pages": [
             2,
+            3,
+            4,
+            5,
+            6,
             7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
             14,
+            15,
             16,
+            17,
             18,
             19,
             20
@@ -374,73 +467,144 @@
       "blocks": [
         {
           "h": {
-            "fr": "Éléments protégés",
-            "ru": "Охраняемые элементы"
+            "fr": "Notion du logiciel et choix du régime de protection",
+            "ru": "Понятие ПО и выбор режима охраны"
           },
           "t": {
-            "fr": "Le logiciel est un programme d’instructions destiné au traitement d’informations. Le droit d’auteur peut protéger le programme et le matériel préparatoire : cahier des charges, documents fonctionnels et formes écrites ou graphiques d’un algorithme.",
-            "ru": "ПО — программа инструкций для обработки информации. Авторское право может охранять саму программу и подготовительные материалы: техническое задание, функциональные документы, письменные или графические формы алгоритма."
-          }
+            "fr": "Le support présente le logiciel comme un ensemble d’instructions destiné au traitement de l’information et le rattache aux œuvres protégées par le droit d’auteur. Il faut distinguer le programme et son expression de l’idée, de la fonction ou du résultat commercial qu’il permet d’obtenir. Les modules suivants traitent séparément des titulaires, des prérogatives et des exceptions. À l’examen, commencez par qualifier l’objet (code source/objet, matériel préparatoire ou autre forme numérique), puis examinez l’originalité.",
+            "ru": "Лекция рассматривает программу как набор инструкций для обработки информации и помещает её в категорию произведений, охраняемых авторским правом. При анализе отделяйте саму программу и её выражение от идеи, задачи или коммерческого результата, которые она помогает получить. Отдельный модуль курса рассматривает, кто получает права, какие правомочия существуют и какие исключения применяются. Для экзамена полезно сначала назвать объект (исходный/объектный код, подготовительный материал или иная цифровая форма), затем сформулировать условие оригинальности."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                7,
+                17,
+                18,
+                19
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Originalité, pas nouveauté",
-            "ru": "Оригинальность, а не новизна"
+            "fr": "Quels éléments relèvent de l’expression protégée",
+            "ru": "Что считается охраняемым выражением"
           },
           "t": {
-            "fr": "Le droit d’auteur classique recherche l’empreinte de la personnalité de l’auteur. Pour le logiciel, le support décrit un apport intellectuel ou un effort personnalisé, examiné au moyen du découpage modulaire, de la concision, des variables nommées et de la lisibilité. La nouveauté relève du brevet, pas de la condition ordinaire du droit d’auteur.",
-            "ru": "В классическом авторском праве ищут отпечаток личности автора. Для ПО лекция указывает на интеллектуальный вклад или индивидуальное усилие, оцениваемое по модульности, краткости, именованию переменных и читаемости. Новизна относится к патенту, а не к обычному условию авторского права."
-          }
+            "fr": "Le droit d’auteur ne réserve pas l’idée abstraite d’un programme ni le principe d’exécution d’une fonction. La leçon traite séparément les éléments du logiciel et le matériel préparatoire : vérifiez si la forme concrète traduit des choix créatifs et relève de l’expression de l’œuvre au sens du cours. Un élément techniquement imposé ou nécessaire n’établit pas, à lui seul, un apport créatif. Dans un cas pratique, désignez l’élément prétendument repris et expliquez pourquoi il s’agit d’une expression protégée plutôt que d’un objectif commun.",
+            "ru": "Авторское право не резервирует абстрактную идею программы или сам принцип выполнения функции. Лекция отдельно обсуждает программные материалы и подготовительный материал: проверяйте, отражает ли конкретная форма творческий выбор и относится ли она к выражению произведения по курсу. Из функционально необходимого или технически навязанного нельзя автоматически выводить творческий вклад. В решении кейса нужно назвать именно тот элемент, который предположительно скопирован, и объяснить, почему это охраняемое выражение, а не только похожая цель или задача."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                18,
+                19,
+                31
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Protection automatique",
-            "ru": "Автоматическая охрана"
+            "fr": "Originalité : méthode de vérification",
+            "ru": "Оригинальность: пошаговая проверка"
           },
           "t": {
-            "fr": "Le droit d’auteur naît sans dépôt à l’INPI. Le support décrit le dépôt à l’APP et l’identifiant IDDN comme des moyens de fixer l’existence et de faciliter la preuve, non comme la condition de protection.",
-            "ru": "Авторское право возникает без регистрации в INPI. Депозит в APP и IDDN представлены как способы зафиксировать существование произведения и облегчить доказывание, а не как условие охраны."
-          }
+            "fr": "Dans le QCM du groupe 2, la condition du droit d’auteur est l’originalité, et non la nouveauté ou l’activité inventive. Posez concrètement trois questions : quels choix l’auteur pouvait-il faire librement ? Quels éléments étaient imposés par le langage, la compatibilité, un standard ou la tâche technique ? Où apparaît un choix créatif propre ? L’originalité concerne la création ; elle ne se mesure pas comme la nouveauté d’un brevet. Un logiciel peut être utile et nouveau pour l’entreprise sans que cela suffise à établir son originalité.",
+            "ru": "В учебном тесте группы 2 условием авторско-правовой защиты выбрана оригинальность, а не новизна или изобретательский уровень. Практически спросите: какие решения автор мог выбирать свободно; какие элементы обусловлены языком программирования, совместимостью, стандартом или технической задачей; в чём виден собственный творческий выбор. Оригинальность относится к созданию, а не к сравнению с предыдущим рынком как при патенте. Программа может быть полезной и новой для фирмы, но эти факты сами по себе не доказывают оригинальность."
+          },
+          "sources": [
+            {
+              "file": "Exercice  2 Groupe 2.pdf",
+              "pages": [
+                1
+              ]
+            },
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                26,
+                28,
+                29,
+                30
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Logiciel et brevet",
-            "ru": "ПО и патент"
+            "fr": "Naissance du droit et preuve",
+            "ru": "Момент возникновения и доказательство"
           },
           "t": {
-            "fr": "Un logiciel « en tant que tel » est exclu du brevet selon les supports. Une invention complexe comportant un logiciel peut être brevetable si elle répond à un problème technique ou produit l’effet technique supplémentaire évoqué dans les diapositives.",
-            "ru": "Программа «как таковая» исключена из патентования по материалам курса. Сложное изобретение с программой может патентоваться, если решает техническую задачу или создаёт дополнительный технический эффект, описанный в лекции."
-          }
+            "fr": "Selon le cours, le droit d’auteur naît avec la création, sans dépôt obligatoire constitutif. En cas de litige, il reste essentiel de prouver qui a créé quoi, à quelle date et sous quelle forme. Les diapositives mentionnent le dépôt auprès de l’APP comme un moyen de fixer un contenu et une date. C’est un outil de preuve, non un examen d’originalité et non un substitut aux contrats entre coauteurs ou avec l’employeur. Conservez versions, historique de développement, échanges et documentation technique.",
+            "ru": "По лекции авторское право возникает при создании произведения, без обязательной регистрации, которая создавала бы право. Но в споре автору важно доказать, что именно он создал, когда существовала конкретная версия и как произведение выглядело. Слайды упоминают депонирование в APP как один из способов зафиксировать материал и дату. Это доказательственный инструмент, а не проверка оригинальности и не замена договоров с соавторами или работодателем. Сохраняйте версии, историю разработки, переписку и техническую документацию."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                25,
+                32,
+                33,
+                34,
+                35
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Quel est l’objet du droit d’auteur sur le logiciel ?",
-            "ru": "Что охраняет авторское право на ПО?"
+            "fr": "Nouveauté, originalité et activité inventive : trois critères",
+            "ru": "Новый, оригинальный и изобретательский — разные тесты"
           },
           "t": {
-            "fr": "Les diapositives décrivent le logiciel comme un ensemble d’instructions destiné au traitement de l’information. La protection vise l’expression du programme et, selon le support, certains éléments préparatoires ; elle ne confère pas un monopole général sur une idée, une fonctionnalité ou un résultat abstrait.",
-            "ru": "Слайды описывают ПО как совокупность инструкций для обработки информации. Охраняется выражение программы и, согласно материалам, некоторые подготовительные материалы; это не создаёт общей монополии на идею, функцию или абстрактный результат."
-          }
+            "fr": "Ne mélangez pas les critères des régimes. Pour le droit d’auteur sur le logiciel, les slides examinent l’originalité. Pour le brevet, ils demandent nouveauté, activité inventive et application industrielle ; « inventif » ne remplace donc pas l’originalité du droit d’auteur. La leçon sur les brevets explique séparément l’exclusion du programme en tant que tel et les cas d’effet technique. À la question « quelle condition pour le logiciel ? », précisez toujours le droit concerné.",
+            "ru": "Не переносите терминологию между режимами. Для авторского права на программу в слайдах рассматривается оригинальность. В патентном праве проверяются новизна, изобретательский уровень и промышленная применимость; «изобретательский» не заменяет авторскую оригинальность. Урок о патентах отдельно объясняет исключение для программы как таковой и ситуации технического эффекта. Поэтому на вопрос «каким должно быть ПО?» отвечайте в контексте конкретного права и цитируйте соответствующую лекцию."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                26,
+                28,
+                30
+              ]
+            },
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                8,
+                10,
+                38,
+                43
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Originalité : la question à se poser",
-            "ru": "Оригинальность: какой вопрос задать"
+            "fr": "Exemple de raisonnement en cas de copie",
+            "ru": "Пример ответа на вопрос о копировании"
           },
           "t": {
-            "fr": "L’originalité ne signifie pas que le programme soit le premier ou le plus performant. Il faut rechercher les choix libres et créatifs qui expriment la personnalité de l’auteur, en tenant compte des contraintes techniques. Les supports présentent l’originalité comme la condition centrale du droit d’auteur.",
-            "ru": "Оригинальность не означает, что программа должна быть первой или самой эффективной. Нужно искать свободные творческие решения, отражающие личность автора, с учётом технических ограничений. Материалы называют оригинальность центральным условием авторско-правовой охраны."
-          }
-        },
-        {
-          "h": {
-            "fr": "Naissance de la protection et preuve",
-            "ru": "Возникновение охраны и доказательства"
+            "fr": "Si deux programmes remplissent la même fonction, cela ne suffit pas pour conclure à une contrefaçon. Décrivez d’abord l’élément litigieux : fragment de code, structure, écran ou algorithme technique. Vérifiez ensuite si une expression originale a été reprise ou si la même fonction a été réalisée indépendamment. Enfin, examinez les preuves d’accès et de similarité, les droits sur la version et les clauses contractuelles. Les supports ne posent pas de règle universelle pour tout écran ou algorithme : un équivalent fonctionnel n’est pas automatiquement une copie.",
+            "ru": "Если две программы решают одну и ту же задачу, этого недостаточно, чтобы заключить о нарушении. Сначала опишите спорный элемент: фрагмент кода, структуру, экран или технический алгоритм. Затем выясните, было ли скопировано конкретное оригинальное выражение или независимо реализована та же функция. Наконец проверьте доказательства доступа и сходства, права на созданную версию и возможные договорные условия. Материалы курса не дают универсального теста для всех экранов или алгоритмов, поэтому не утверждайте автоматически, что всякий функциональный аналог является копией."
           },
-          "t": {
-            "fr": "Le droit d’auteur naît, selon le cours, lors de la création de l’œuvre, sans dépôt constitutif obligatoire. Cela ne dispense pas de pouvoir prouver la date, le contenu et l’identité du créateur en cas de litige. Les diapositives évoquent notamment les dépôts probatoires auprès de l’APP : ce moyen de preuve ne remplace pas la condition d’originalité.",
-            "ru": "Согласно курсу, авторское право возникает при создании произведения и не требует обязательной регистрации для возникновения. Однако в споре потребуется доказать дату, содержание и автора. Слайды упоминают, в частности, доказательную регистрацию в APP: она не заменяет условие оригинальности."
-          }
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                17,
+                18,
+                26,
+                31,
+                32
+              ]
+            }
+          ]
         }
       ],
       "example": {
@@ -452,8 +616,9 @@
           "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
           "pages": [
             7,
-            10,
             17,
+            18,
+            19,
             25,
             26,
             28,
@@ -462,21 +627,23 @@
             31,
             32,
             33,
-            34
-          ]
-        },
-        {
-          "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
-          "pages": [
-            38,
-            39,
-            43
+            34,
+            35
           ]
         },
         {
           "file": "Exercice  2 Groupe 2.pdf",
           "pages": [
             1
+          ]
+        },
+        {
+          "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+          "pages": [
+            8,
+            10,
+            38,
+            43
           ]
         }
       ],
@@ -650,63 +817,173 @@
       "blocks": [
         {
           "h": {
-            "fr": "Quatre qualifications",
-            "ru": "Четыре квалификации"
+            "fr": "Auteur unique et création plurale",
+            "ru": "Автор-одиночка и несколько авторов"
           },
           "t": {
-            "fr": "Collaboration : apports créatifs indissociables, droits exercés en commun. Collective : projet, direction et exploitation sous un nom ; le support attribue les droits initiaux au maître d’ouvrage. Composite : incorporation sans collaboration des auteurs, autorisation du premier auteur nécessaire. Commande : examiner le contrat et la cession.",
-            "ru": "Соавторство: неразделимые творческие вклады, права осуществляются совместно. Коллективное произведение: проект, руководство и выпуск под одним именем; лекция относит первоначальные права к заказчику. Составное: включение чужого произведения без совместной работы, нужно разрешение первого автора. Заказное: изучить договор и уступку прав."
-          }
+            "fr": "Le point de départ du cours est le lien entre les droits et l’auteur, alors que le développement d’un logiciel implique souvent plusieurs personnes et étapes. Ne confondez pas financement, direction du projet ou commande avec la qualité d’auteur sans examiner l’apport créatif. Pour chaque participant, identifiez les éléments originaux créés, la fusion éventuelle des contributions et leur exploitabilité séparée. Vérifiez ensuite le statut professionnel et les écrits. Cela évite le raccourci « l’entreprise a payé, donc elle est l’auteur ».",
+            "ru": "Исходная точка курса: права связаны с автором, однако разработка программ часто распределена между людьми и этапами. Не приравнивайте финансирование, управление проектом или заказ к авторству без анализа творческого вклада. Для каждого участника установите, какие оригинальные элементы он создал, были ли вклады объединены и можно ли их использовать отдельно. Затем проверьте трудовой статус и письменные соглашения. Это предотвращает распространённую ошибку «компания оплатила — значит компания автор»."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Salarié, intérimaire, stagiaire, agent public",
-            "ru": "Работник, временный работник, стажёр, госслужащий"
+            "fr": "Œuvre de collaboration",
+            "ru": "Произведение сотрудничества"
           },
           "t": {
-            "fr": "La leçon distingue les droits moraux du salarié du transfert des droits patrimoniaux du logiciel à l’employeur. Elle traite séparément intérimaire, stagiaire et agent public. Pour résoudre un cas, vérifier statut, contrat, mission et nature des contributions.",
-            "ru": "Лекция отделяет моральные права работника от передачи работодателю имущественных прав на ПО. Отдельно рассматриваются временный работник, стажёр и госслужащий. Для решения задачи проверьте статус, договор, задание и вклад."
-          }
+            "fr": "La leçon rattache l’œuvre de collaboration à une création commune et à des apports indissociables. Le simple fait de travailler dans la même équipe ne suffit pas : identifiez qui a participé à la forme protégée et comment les parties s’articulent. Si un apport est individualisable et exploitable séparément, son régime peut différer de celui d’une œuvre commune indissociable. Dans la réponse, exposez les faits montrant une création conjointe ; le nombre de personnes ou la durée ne prouvent pas à eux seuls des parts égales.",
+            "ru": "Лекция связывает сотрудничество с общим творческим созданием и неразделимыми вкладами. Не достаточно просто работать в одной команде: нужно установить, кто участвовал в создании охраняемой формы и как соотносятся части. Если вклад можно выделить и использовать отдельно, анализ прав на него может отличаться от совместного неразделимого произведения. В ответе назовите факты, подтверждающие совместное создание, и не делайте вывод о равных долях только из числа участников или длительности работы."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                39,
+                40,
+                41
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Ce qui manque dans le cas Diafoirus/Paulet",
-            "ru": "Чего не хватает в задаче о Диафойрусе и Поле"
+            "fr": "Œuvre collective et œuvre composite",
+            "ru": "Произведение коллективное и составное"
           },
           "t": {
-            "fr": "L’exercice mentionne quatre ans de travail à deux et un financement par hypothèque, mais ne décrit ni le contrat, ni les apports créatifs, ni le statut des partenaires. Le financement seul ne tranche donc pas l’égalité ou la titularité ; la réponse doit poser les hypothèses.",
-            "ru": "В задании упомянуты четыре года совместной работы и финансирование через ипотеку, но не указаны договор, творческие вклады и статус партнёров. Одно лишь финансирование не решает вопрос равенства или правообладателя; ответ должен обозначить варианты."
-          }
+            "fr": "Les slides distinguent l’œuvre collective de l’œuvre de collaboration et de l’œuvre composite. Pour l’œuvre collective, vérifiez l’initiative, la direction, la publication sous le nom d’une personne et la fusion des apports dans l’ensemble, selon les critères du support. L’œuvre composite est une œuvre nouvelle incorporant une œuvre préexistante sans création commune avec l’auteur de celle-ci ; les diapositives soulignent l’autorisation nécessaire pour l’élément incorporé. La qualification dépend du processus réel, pas du nom donné au fichier par le commanditaire.",
+            "ru": "Слайды отделяют коллективное произведение от сотрудничества и составного произведения. Для коллективного произведения проверяют инициативу, руководство, публикацию под именем лица и слияние вкладов в единое целое — именно по условиям лекции. Составное произведение возникает, когда новая работа включает ранее созданную работу без совместного создания с её автором; материалы подчёркивают необходимость разрешения на включённый элемент. Квалификация зависит от организации создания, а не от того, назвал ли заказчик файл «коллективным»."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                41,
+                42,
+                43
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Œuvre de collaboration, collective ou composite ?",
-            "ru": "Совместное, коллективное или составное произведение?"
+            "fr": "Logiciel créé par un salarié",
+            "ru": "Программа, созданная работником"
           },
           "t": {
-            "fr": "Pour qualifier une création plurale, demandez qui a pris l’initiative et la direction, si les contributions sont fusionnées et si elles peuvent être individualisées. La leçon distingue l’œuvre de collaboration (création commune), l’œuvre collective (initiative et publication sous le nom d’une personne, contributions fondues selon les critères du support) et l’œuvre composite (œuvre nouvelle incorporant une œuvre préexistante).",
-            "ru": "Для квалификации совместного произведения выясните, кто проявил инициативу и руководил работой, слились ли вклады и можно ли их выделить. Урок различает произведение сотрудничества (совместное создание), коллективное произведение (инициатива и публикация под именем лица, вклады объединены согласно критериям курса) и составное произведение (новое произведение включает ранее созданное)."
-          }
+            "fr": "La leçon présente une règle spécifique pour le logiciel créé par un salarié dans l’exercice de ses fonctions ou sur instruction de l’employeur : les droits patrimoniaux reviennent à l’employeur dans les conditions prévues. Cela ne signifie pas que toute œuvre de tout salarié appartient automatiquement à l’entreprise. Vérifiez les fonctions, les instructions, le moment de création et la qualification de logiciel. Distinguez aussi droits moraux et transfert patrimonial. Dans le QCM du groupe 2, l’auteur salarié conserve le droit moral de paternité.",
+            "ru": "В лекции отдельно рассматривается специальное правило для программ, созданных работником при исполнении обязанностей или по указанию работодателя: имущественные права передаются работодателю в предусмотренных законом условиях. Это не означает, что любое произведение любого работника автоматически принадлежит компании. Установите трудовые обязанности, содержание задания, момент создания и то, относится ли объект к программе. Личные права и имущественная передача также должны рассматриваться раздельно. В тесте группы 2 сохраняется личное право автора на авторство."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                44,
+                45
+              ]
+            },
+            {
+              "file": "Exercice  2 Groupe 2.pdf",
+              "pages": [
+                1
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Le statut professionnel ne règle pas tout seul la titularité",
-            "ru": "Трудовой статус сам по себе не решает вопрос о правообладателе"
+            "fr": "Intérimaire, stagiaire et agent public",
+            "ru": "Временный работник, стажёр и государственный служащий"
           },
           "t": {
-            "fr": "Les diapositives traitent séparément salariés, intérimaires, stagiaires et agents publics. Pour un logiciel créé par un salarié dans l’exercice de ses fonctions ou sur instructions de l’employeur, le support décrit une dévolution des droits patrimoniaux à l’employeur, sous réserve du cadre présenté. Pour les autres statuts, vérifiez les textes, contrats et circonstances : ne transposez pas automatiquement la règle du salarié.",
-            "ru": "Слайды отдельно рассматривают работников, временных работников, стажёров и государственных служащих. Для ПО, созданного работником при исполнении обязанностей или по указанию работодателя, материалы описывают переход имущественных прав к работодателю с учётом изложенных условий. Для других статусов проверяйте закон, договор и обстоятельства: не переносите автоматически правило о работнике."
-          }
+            "fr": "Les supports traitent séparément intérimaires, stagiaires et agents publics. Ne transposez pas automatiquement la règle du salarié d’une entreprise privée. Pour chaque situation, vérifiez qui est l’employeur, qui a donné les instructions, quelles fonctions étaient exercées et s’il existe un texte ou un contrat particulier. Le cas relatif au stagiaire indique que son statut ne doit pas être assimilé sans examen à celui d’un salarié. Si un fait décisif manque, signalez-le dans la conclusion.",
+            "ru": "Материалы намеренно рассматривают отдельные статусы: временный работник, стажёр и служащий государственного сектора. Не переносите на них автоматически правило о работнике частной компании. Для каждого случая выясните, кто работодатель, кто давал инструкции, какие обязанности выполнялись и есть ли специальная норма или договор. В отношении стажёра учебный казус прямо предупреждает, что его статус нельзя просто приравнять к работнику. Если источники не содержат решающего факта, укажите это в выводе."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                44,
+                45,
+                46
+              ]
+            },
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                51,
+                52
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Méthode pour le cas Diafoirus / Paulet",
-            "ru": "Метод разбора ситуации Diafoirus / Paulet"
+            "fr": "Étude du cas Diafoirus / Paulet",
+            "ru": "Разбор казуса Diafoirus / Paulet"
           },
           "t": {
-            "fr": "L’énoncé fourni indique une création à deux pendant quatre ans et un financement par un partenariat, mais ne donne pas, à lui seul, les contrats, statuts, apports précis ni l’existence d’instructions. Répondez en distinguant les faits établis des faits manquants : qualifier la contribution, vérifier les statuts et contrats, puis déterminer les droits et les preuves. Le souhait de déposer à l’INPI ne suffit pas à établir la titularité.",
-            "ru": "В условии указаны совместная работа в течение четырёх лет и финансирование партнёрством, но не приведены договоры, статусы участников, точные вклады или наличие указаний работодателя. Разделите установленные и недостающие факты: квалифицируйте вклад, проверьте статус и договоры, затем определите права и доказательства. Намерение зарегистрировать ПО в INPI само по себе не устанавливает правообладателя."
-          }
+            "fr": "В DOCX названы два участника, несколько лет разработки и финансирование партнёрством, но этих обстоятельств недостаточно для распределения авторских прав. Сначала отделите творческий вклад от финансирования; затем уточните договор, организацию работы, статусы, задания и момент создания программы. Проверьте наличие совместного произведения и возможность выделить части. Материалы не дают полного ответа о территориальной охране во Франции и Бельгии, поэтому нужно прямо отметить пробел, а не придумывать необходимость двух регистраций.",
+            "ru": "В DOCX указаны два участника, несколько лет разработки и финансирование партнёрством, но этих фактов недостаточно для распределения авторских прав. Сначала отделите творческий вклад от финансового вклада; затем запросите договор, организацию работы, статусы участников, задания и момент создания программы. Проверьте, претендуют ли они на совместное произведение и можно ли выделить части. В материалах нет полного ответа о территориальной охране для Франции и Бельгии, поэтому кейс должен обозначить этот пробел, а не выдумывать необходимость двух регистраций."
+          },
+          "sources": [
+            {
+              "file": "Excercice3 CAS PRATIQUE SOIR (1).docx",
+              "pages": []
+            },
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                39,
+                40,
+                43,
+                44,
+                45,
+                46
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Trois questions : auteur, titulaire et preuve",
+            "ru": "Авторство, владение правом и доказательство — три вопроса"
+          },
+          "t": {
+            "fr": "Dans un cas complexe, répondez successivement à trois questions. (1) Qui a créé la forme protégée ? (2) À qui appartiennent ou ont été transférés les droits patrimoniaux selon la loi et le contrat ? (3) Quels documents prouvent la date, les contributions et la cession ? Une réponse ne remplace pas l’autre : l’auteur peut ne plus détenir tous les droits patrimoniaux ; une entreprise financeuse peut avoir des droits contractuels sans devenir auteur ; un dépôt probatoire aide à prouver sans établir automatiquement le titre.",
+            "ru": "В сложной ситуации отвечайте последовательно на три разные вещи. (1) Кто создал охраняемую форму? (2) Кому принадлежат или были переданы имущественные права с учётом закона и договора? (3) Какими документами можно доказать дату, вклад и передачу? Один ответ не подменяет другой: автор может не быть нынешним обладателем всех имущественных прав; финансирующая компания может иметь договорные права, но это не делает её автором; запись о депонировании помогает доказыванию, но не устанавливает титул автоматически."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                32,
+                39,
+                40,
+                43,
+                44,
+                45,
+                46
+              ]
+            },
+            {
+              "file": "Excercice3 CAS PRATIQUE SOIR (1).docx",
+              "pages": []
+            }
+          ]
         }
       ],
       "example": {
@@ -717,6 +994,8 @@
         {
           "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
           "pages": [
+            32,
+            38,
             39,
             40,
             41,
@@ -728,14 +1007,21 @@
           ]
         },
         {
-          "file": "Excercice3 CAS PRATIQUE SOIR (1).docx",
-          "pages": []
-        },
-        {
           "file": "Exercice  2 Groupe 2.pdf",
           "pages": [
             1
           ]
+        },
+        {
+          "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+          "pages": [
+            51,
+            52
+          ]
+        },
+        {
+          "file": "Excercice3 CAS PRATIQUE SOIR (1).docx",
+          "pages": []
         }
       ],
       "quiz": [
@@ -927,63 +1213,187 @@
       "blocks": [
         {
           "h": {
-            "fr": "Droits moraux et patrimoniaux",
-            "ru": "Личные и имущественные права"
+            "fr": "Les catégories de droits de l’auteur",
+            "ru": "Система прав автора"
           },
           "t": {
-            "fr": "Le support distingue divulgation, paternité, respect de l’œuvre, repentir/retrait (avec règles propres au logiciel) et les droits patrimoniaux de reproduction, dérivation et mise sur le marché. Règle générale enseignée : vie de l’auteur + 70 ans ; pour la collaboration, départ au 1er janvier suivant le décès du dernier coauteur.",
-            "ru": "Лекция различает обнародование, авторство, неприкосновенность произведения, отзыв/изъятие (с особыми правилами для ПО) и имущественные права воспроизведения, переработки и выпуска на рынок. Общее правило курса: жизнь автора + 70 лет; для соавторства срок начинается 1 января после смерти последнего соавтора."
-          }
+            "fr": "La leçon distingue droits moraux et droits patrimoniaux. Les premiers comprennent, dans les slides, divulgation, paternité, respect de l’œuvre et retrait/repentir, avec des particularités pour le logiciel. Les droits patrimoniaux concernent l’exploitation du programme : reproduction, adaptation et distribution selon le cadre du cours. Si l’entreprise reçoit les droits patrimoniaux, la question de la paternité ne disparaît pas automatiquement. Identifiez d’abord le type de droit, puis l’acte auquel il s’applique.",
+            "ru": "Лекция различает личные (внеимущественные) права и имущественные правомочия. К первым слайды относят обнародование, признание авторства, уважение произведения и право отзыва/раскаяния с особенностями для ПО. Имущественные права касаются использования программы: воспроизведение, адаптация и распространение на условиях курса. Если компания получила имущественные права, это не означает автоматического исчезновения вопроса об авторстве. В ответе сначала назовите вид права, затем действие, против которого оно направлено."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                48,
+                51,
+                52,
+                54,
+                55,
+                56,
+                57,
+                58
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Exceptions et utilisateur légitime",
-            "ru": "Исключения и законный пользователь"
+            "fr": "Divulgation, paternité et respect de l’œuvre",
+            "ru": "Раскрытие, авторство и уважение произведения"
           },
           "t": {
-            "fr": "L’utilisateur respecte contrat et destination du logiciel. Le cours cite copie de sauvegarde et observation/étude/test pour l’usage normal. La décompilation n’est admise que lorsqu’elle est indispensable à l’interopérabilité d’un programme créé indépendamment ; la communication doit rester nécessaire et ne peut servir à créer un logiciel essentiellement similaire.",
-            "ru": "Пользователь соблюдает договор и назначение программы. Курс называет резервную копию и наблюдение/изучение/тестирование для нормального использования. Декомпиляция допускается лишь при необходимости для совместимости независимо созданной программы; раскрываются только необходимые сведения и нельзя создавать по сути аналогичное ПО."
-          }
+            "fr": "Le droit de divulgation porte sur la décision de communiquer l’œuvre au public ; la paternité impose de reconnaître le lien entre le créateur et l’œuvre ; le respect protège son intégrité dans le cadre présenté. Ces droits ne se réduisent pas à l’autorisation d’utiliser le code. Dans un cas, vérifiez si le programme a été divulgué, comment l’auteur est mentionné, quelles modifications ont été apportées et quel droit est concerné. Les slides soulignent des particularités du logiciel : évitez les transpositions sans réserve.",
+            "ru": "Право на обнародование касается решения автора о сообщении произведения публике; право на авторство требует признать связь создателя с произведением; уважение произведения охраняет его целостность в пределах, представленных лекцией. Эти права нельзя свести к разрешению использовать код. В казусе выясните, был ли продукт опубликован, как обозначен автор, вносились ли изменения и нарушают ли они соответствующее право. Слайды подчёркивают специальные особенности программного обеспечения, поэтому не переносите на ПО каждую формулировку без оговорок."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                48,
+                51,
+                52,
+                54,
+                55,
+                56
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Licence et code source",
-            "ru": "Лицензия и исходный код"
+            "fr": "Reproduction, adaptation et distribution",
+            "ru": "Воспроизведение, адаптация и распространение"
           },
           "t": {
-            "fr": "Le support oppose logiciel libre (libertés d’usage, copie, modification avec accès au code source, redistribution) et propriétaire. Gratuit ne signifie pas libre : freeware et shareware restent soumis à des limites de licence. L’accès au code source dépend du contrat/licence.",
-            "ru": "Лекция противопоставляет свободное ПО (свобода использования, копирования, изменения при доступе к исходному коду и распространения) проприетарному. Бесплатность не означает свободу: freeware и shareware ограничены лицензией. Доступ к исходному коду зависит от договора/лицензии."
-          }
+            "fr": "Les droits patrimoniaux permettent de contrôler les modes d’exploitation énumérés. Pour le logiciel, demandez précisément : une copie est-elle créée ? Le code ou sa forme est-il modifié ? Un exemplaire est-il distribué ou un accès fourni ? Vérifiez ensuite la licence et une éventuelle exception. L’achat d’un exemplaire ou l’accès au programme n’emporte pas nécessairement le droit de reproduire, modifier ou retransmettre le logiciel. Les supports abordent également les adaptations et licences : relevez à chaque fois l’étendue des droits accordés.",
+            "ru": "Имущественные права позволяют контролировать перечисленные способы использования произведения. Для программы задайте конкретный вопрос: создаётся ли копия, изменяется ли код/форма, распространяется ли экземпляр или предоставляется ли доступ? Затем проверьте лицензию и применимое исключение. Покупка экземпляра или получение доступа не всегда означает приобретение права воспроизводить, модифицировать или передавать программу дальше. В документах также рассматриваются производные версии и использование через лицензию — каждый раз фиксируйте объём предоставленных прав."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                51,
+                52,
+                56,
+                57,
+                58
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Droit moral et droits patrimoniaux",
-            "ru": "Личные неимущественные и имущественные права"
+            "fr": "Les exceptions : des autorisations limitées",
+            "ru": "Исключения — ограниченные разрешения"
           },
           "t": {
-            "fr": "Le support cite, pour l’auteur, divulgation, paternité, respect de l’œuvre et retrait/repentir, avec des règles particulières pour le logiciel. Les droits patrimoniaux permettent notamment d’autoriser ou interdire des exploitations et peuvent être cédés ou licenciés dans les conditions du cours. Ne confondez pas attribution de droits patrimoniaux et disparition automatique du lien de paternité.",
-            "ru": "Материалы называют среди личных прав автора обнародование, авторство, неприкосновенность произведения и отзыв/раскаяние, при этом для ПО указаны особенности. Имущественные права позволяют разрешать или запрещать использование и могут передаваться или лицензироваться на условиях курса. Не смешивайте передачу имущественных прав с автоматическим исчезновением права на авторство."
-          }
+            "fr": "Le cours étudie des exceptions précises : copie de sauvegarde nécessaire, observation/étude/test par l’utilisateur légitime et décompilation pour l’interopérabilité. Ce n’est pas une liste de modes d’exploitation libres. Pour chaque exception, vérifiez la licéité de l’accès, la finalité prévue, la nécessité et l’étendue des actes, ainsi que les conditions particulières. L’interopérabilité ne transforme notamment pas la décompilation en autorisation de publier le code source ou de créer une copie concurrente.",
+            "ru": "Курс рассматривает отдельные исключения: резервную копию, необходимую для использования программы, наблюдение/изучение/тестирование законным пользователем и декомпиляцию ради совместимости. Это не список свободных способов эксплуатации. Для каждого исключения проверьте: законность доступа, предусмотренную цель, объём необходимых действий, отсутствие выхода за пределы цели и специальные условия. В частности, совместимость не превращает декомпиляцию в разрешение публиковать исходный код или создать конкурирующую копию."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Exceptions : vérifier les conditions",
-            "ru": "Исключения: проверяйте условия"
+            "fr": "L’utilisateur légitime",
+            "ru": "Пользователь, имеющий законный доступ"
           },
           "t": {
-            "fr": "Une exception n’est pas une autorisation générale. Les diapositives traitent notamment de la copie de sauvegarde nécessaire, de l’observation/étude/test par l’utilisateur légitime et de la décompilation limitée à l’interopérabilité dans les conditions exposées. Vérifiez la qualité d’utilisateur légitime, la finalité, la nécessité et les limites prévues ; l’exception ne permet pas de reconstituer ou diffuser librement le programme.",
-            "ru": "Исключение не является общим разрешением. Слайды рассматривают необходимую резервную копию, наблюдение/изучение/тестирование законным пользователем и ограниченную декомпиляцию для совместимости при изложенных условиях. Проверяйте статус законного пользователя, цель, необходимость и предусмотренные пределы; исключение не разрешает свободно восстанавливать или распространять программу."
-          }
+            "fr": "La qualité d’utilisateur légitime conditionne certaines exceptions. Le destinataire doit respecter le contrat et la destination de la licence ; l’autorisation d’observer, tester ou sauvegarder ne permet pas toute intervention. À l’examen, exposez les faits : accès licite ? acte accompli ? finalité ? nécessité ? disposition précise du cours ? Si l’acte dépasse la finalité, revenez à la licence et aux droits exclusifs.",
+            "ru": "Понятие законного пользователя важно для исключений. Получатель программы должен соблюдать договор и назначение лицензии; разрешение наблюдать, тестировать или сделать резервную копию не разрешает любое вмешательство. На экзамене сформулируйте факты: пользователь получил экземпляр законно? какое действие он совершил? для какой цели? необходимо ли было такое действие? что именно разрешает соответствующий пункт лекции? Если действие выходит за пределы цели, вернитесь к лицензии и исключительным правам."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                63,
+                64,
+                65,
+                66
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Licence : lire ce qui est autorisé",
-            "ru": "Лицензия: выясните, что разрешено"
+            "fr": "Logiciel libre, freeware et shareware",
+            "ru": "Свободное ПО, freeware и shareware"
           },
           "t": {
-            "fr": "Les supports distinguent logiciel propriétaire, logiciel libre, freeware et shareware. « Libre » renvoie à des libertés d’usage, d’étude, de modification et de redistribution selon la licence ; ce n’est pas synonyme de gratuité. Freeware désigne la gratuité d’usage selon les conditions annoncées ; shareware correspond à une mise à disposition d’essai/limitée selon le support. Dans tous les cas, lisez les conditions exactes.",
-            "ru": "Материалы различают проприетарное ПО, свободное ПО, freeware и shareware. «Свободное» означает свободы использования, изучения, изменения и распространения согласно лицензии; это не синоним бесплатности. Freeware означает бесплатное использование на объявленных условиях; shareware — пробное или ограниченное предоставление по описанию курса. Всегда читайте конкретную лицензию."
-          }
+            "fr": "Les slides distinguent des modèles souvent confondus. Le logiciel libre se définit par les libertés accordées par sa licence — utiliser, étudier, modifier et redistribuer sous ses conditions — et peut être payant. Freeware indique une mise à disposition gratuite selon des conditions annoncées, sans garantir le droit de modifier ou revendre. Shareware désigne dans le support une mise à disposition d’essai ou limitée. Il faut lire la licence, pas s’arrêter au nom commercial.",
+            "ru": "Слайды различают модели распространения, которые часто путают. Свободное ПО определяется предоставляемыми лицензией свободами — использовать, изучать, изменять и распространять при соблюдении условий лицензии; оно может быть платным. Freeware описывает бесплатное предоставление на заявленных условиях, но само слово не гарантирует право менять или перепродавать. Shareware обычно обозначает пробную/ограниченную модель распространения в рамках описания лекции. Смотрите текст лицензии, а не только маркетинговый ярлык."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                11,
+                12,
+                13,
+                14,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Licences Creative Commons et logiciel",
+            "ru": "Лицензии Creative Commons и ПО"
+          },
+          "t": {
+            "fr": "La fin de la leçon présente Creative Commons comme un ensemble de licences standard permettant d’accorder certaines autorisations. Pour une œuvre donnée, identifiez la licence précise et ses obligations/limites. Ne déduisez pas « en ligne = libre » et ne supposez pas que CC est automatiquement la licence de tout code logiciel. Des licences logicielles peuvent fixer d’autres conditions concernant le code source, les modifications ou la redistribution. Qualifiez l’objet et lisez la licence concrète.",
+            "ru": "В конце лекции приведены Creative Commons как набор стандартных лицензий для предоставления отдельных разрешений. Для применения к конкретной работе выясните, какая именно лицензия использована и какие ограничения/обязанности она содержит. Не делайте вывод «в интернете — значит свободно» и не считайте CC автоматической лицензией на любой программный код. Для ПО могут действовать иные лицензии с условиями о доступе к исходному коду, изменениях или распространении. Определите объект и прочитайте текст конкретной лицензии."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                67,
+                68,
+                69
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Calculer la durée : règle générale et œuvre de collaboration",
+            "ru": "Расчёт срока: общее правило и совместное произведение"
+          },
+          "t": {
+            "fr": "Dans les slides, la durée patrimoniale générale est la vie de l’auteur puis 70 ans après son décès. Pour une œuvre de collaboration, le cours fait courir les 70 ans au 1er janvier de l’année suivant le décès du dernier vivant des collaborateurs. Exemple de l’exercice : le dernier coauteur décède le 20 avril 2017 ; le délai commence le 1er janvier 2018 et expire au terme de 2087 selon ce calcul pédagogique. Distinguez cette durée des droits moraux, présentés séparément comme attachés à l’auteur et non cessibles.",
+            "ru": "В слайдах общий срок имущественных прав — жизнь автора и 70 лет после его смерти. Для произведения сотрудничества 70-летний срок, согласно курсу, начинается 1 января года, следующего за смертью последнего из соавторов. Пример из задания: последний соавтор умер 20 апреля 2017 года; срок начинается 1 января 2018 года и по этому учебному расчёту заканчивается в конце 2087 года. Не смешивайте срок имущественных прав с личными правами, которые рассматриваются отдельно."
+          },
+          "sources": [
+            {
+              "file": "3-Titre  1  l  oeuvre  ( logiciel et  oeuvre numerique).pdf",
+              "pages": [
+                48,
+                49,
+                55
+              ]
+            },
+            {
+              "file": "EXERCICE  MASTER OPSIE 2026.pdf",
+              "pages": [
+                1
+              ]
+            }
+          ]
         }
       ],
       "example": {
@@ -998,7 +1408,9 @@
             12,
             13,
             14,
+            15,
             48,
+            49,
             51,
             52,
             54,
@@ -1009,10 +1421,14 @@
             59,
             60,
             61,
+            62,
             63,
             64,
             65,
-            66
+            66,
+            67,
+            68,
+            69
           ]
         },
         {
@@ -1210,73 +1626,176 @@
       "blocks": [
         {
           "h": {
-            "fr": "Définition",
-            "ru": "Определение"
+            "fr": "Définition : vérifier chacun des critères",
+            "ru": "Определение базы данных: проверьте каждый элемент"
           },
           "t": {
-            "fr": "Un recueil d’éléments indépendants, disposés de manière systématique ou méthodique, et accessibles individuellement. Une base peut être électronique ou non électronique.",
-            "ru": "Собрание независимых элементов, систематически или методически организованных и доступных по отдельности. База может быть электронной или неэлектронной."
-          }
+            "fr": "Leçon reprend la définition du CPI, art. L.112-3 : recueil d’œuvres, de données ou d’autres éléments indépendants, disposés de façon systématique ou méthodique et individuellement accessibles par voie électronique ou autrement. Vérifiez non seulement le grand nombre d’entrées, mais l’indépendance des éléments, l’organisation et l’accès individuel. Les exemples du cours incluent bases papier et électroniques, trombinoscope, guide touristique, calendrier sportif et recueil de données hippiques.",
+            "ru": "Лекция воспроизводит определение CPI L.112-3: собрание независимых произведений, данных или иных элементов, расположенных систематически или методически и доступных индивидуально электронным либо иным способом. Для квалификации проверьте не только наличие множества записей, но и самостоятельность элементов, организованный порядок и возможность получить каждый элемент отдельно. Примеры курса включают бумажные и электронные базы, список студентов/тромбиноскоп, путеводитель, календарь спорта и подборку данных о лошадях."
+          },
+          "sources": [
+            {
+              "file": "4-Leçon 4 base de  données.pdf",
+              "pages": [
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Deux objets, deux critères",
-            "ru": "Два объекта — два критерия"
+            "fr": "Le support matériel ne décide pas de la qualification",
+            "ru": "Формат не решает вопрос"
           },
           "t": {
-            "fr": "Le droit d’auteur protège la structure si elle est originale ; le producteur est protégé par le droit sui generis pour l’investissement substantiel dans le contenu, l’initiative et le risque. Le cours indique 15 ans, avec renouvellement si un nouvel investissement substantiel est réalisé.",
-            "ru": "Авторское право охраняет оригинальную структуру; право sui generis защищает существенные инвестиции производителя в содержимое, инициативу и риск. В курсе указан срок 15 лет с возобновлением при новых существенных инвестициях."
-          }
+            "fr": "Une base peut être électronique ou non électronique. Un catalogue papier peut donc répondre à la définition, alors qu’un dossier de fichiers non structuré ne satisfait pas nécessairement chaque critère. Décrivez l’organisation et l’accès, pas seulement le support. Les diapositives montrent qu’une même base réunit des objets distincts : recueil, structure et œuvres intégrées doivent être analysés séparément. La diapositive Facebook est un exemple de discussion lié à une configuration présentée, pas une règle générale applicable à tout réseau social.",
+            "ru": "База данных может быть электронной или неэлектронной. Поэтому бумажный каталог может соответствовать определению, а неструктурированная папка файлов не обязательно удовлетворяет всем условиям. Для каждого примера опишите организацию и способ доступа, а не только технический носитель. Материалы отдельно показывают сочетание разных объектов в одной базе: сама подборка, её структура и отдельные включённые произведения могут требовать самостоятельного анализа. Пример Facebook в слайдах служит учебным тезисом для обсуждения конкретной конфигурации, а не универсальным выводом о любой социальной сети."
+          },
+          "sources": [
+            {
+              "file": "4-Leçon 4 base de  données.pdf",
+              "pages": [
+                8,
+                9,
+                10,
+                17
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Actes, exceptions, exemples",
-            "ru": "Действия, исключения, примеры"
+            "fr": "Premier régime : droit d’auteur sur la structure",
+            "ru": "Первый режим: авторское право на структуру"
           },
           "t": {
-            "fr": "Le producteur peut interdire extraction/réutilisation ; extraction comprend transfert sur disque, mémoire, papier, copier-coller ou copie manuelle. Des exceptions sont présentées pour certaines parties non substantielles et usages privés/pédagogiques. Exemples : trombinoscope, guide touristique, calendrier sportif, base hippique.",
-            "ru": "Производитель может запрещать извлечение/повторное использование; извлечение включает перенос на диск, в память, на бумагу, копирование или перепись от руки. Упомянуты исключения для некоторых несущественных частей и частного/учебного использования. Примеры: список студентов, путеводитель, спортивный календарь, база ипподрома."
-          }
+            "fr": "Le droit d’auteur peut protéger la structure d’une base si le choix ou la disposition des éléments est original selon le cours. Il ne confère pas automatiquement de droit sur chaque donnée factuelle et ne dispense pas d’examiner les droits portant sur les œuvres intégrées. Dans un cas, décrivez les choix créatifs d’organisation et distinguez-les du contenu. Si l’ordre est exclusivement dicté par des contraintes techniques, un classement soigneux ne suffit pas à prouver l’originalité.",
+            "ru": "Авторское право может защищать структуру базы, если именно организация, отбор или расположение элементов оригинальны по критерию лекции. Оно не даёт автоматического права на каждую фактическую запись и не освобождает от проверки прав на включённые произведения. В казусе опишите творческие решения по структуре и отделите их от содержания. Если порядок продиктован исключительно техническими требованиями, сам факт аккуратной сортировки ещё не доказывает оригинальность."
+          },
+          "sources": [
+            {
+              "file": "4-Leçon 4 base de  données.pdf",
+              "pages": [
+                11,
+                12,
+                13
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Une diapositive à discuter",
-            "ru": "Тезис для обсуждения"
+            "fr": "Second régime : droit sui generis du producteur",
+            "ru": "Второй режим: право производителя sui generis"
           },
           "t": {
-            "fr": "La diapositive sur Facebook soutient qu’il n’y a pas de base dans la configuration qu’elle décrit, faute de compilation et d’investissement. Le site la présente comme une affirmation du support à discuter selon les critères, non comme règle générale.",
-            "ru": "Слайд о Facebook утверждает, что в описанной конфигурации нет базы из-за отсутствия составления и инвестиций. Сайт обозначает это как тезис лекции для обсуждения критериев, а не общее правило."
-          }
+            "fr": "Indépendamment de l’originalité de la structure, le cours présente le droit sui generis du producteur. Le producteur est celui qui prend l’initiative et assume le risque d’un investissement dans l’obtention, la vérification ou la présentation du contenu. Le caractère substantiel de l’investissement compte, pas seulement le travail de création des données. Menez deux analyses séparées : originalité de la structure pour le droit d’auteur ; investissement substantiel dans le contenu pour le droit sui generis. Un critère ne prouve pas l’autre.",
+            "ru": "Отдельно от оригинальности структуры курс объясняет специальное право производителя. Производитель — лицо, которое проявило инициативу и приняло риск инвестиции в получение, проверку или представление содержания. Важен существенный характер вложений, а не только труд по созданию отдельных данных. Проводите два отдельных анализа: есть ли оригинальность структуры для авторского права; есть ли значительные инвестиции в содержание для sui generis. Один тест не доказывает другой."
+          },
+          "sources": [
+            {
+              "file": "4-Leçon 4 base de  données.pdf",
+              "pages": [
+                14,
+                15,
+                16
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Définition : quatre éléments à repérer",
-            "ru": "Определение: четыре элемента"
+            "fr": "Contenu du droit exclusif du producteur",
+            "ru": "Содержание исключительного права производителя"
           },
           "t": {
-            "fr": "La définition du cours (CPI, art. L.112-3) repose sur un recueil d’œuvres, données ou autres éléments indépendants, disposés de manière systématique ou méthodique, et individuellement accessibles. Appliquez les critères à l’organisation et à l’accès aux éléments ; le seul fait de stocker de nombreux fichiers ne répond pas nécessairement à toute la définition.",
-            "ru": "Определение курса (ст. L.112-3 CPI) основано на собрании произведений, данных или других самостоятельных элементов, систематически или методически организованных и доступных по отдельности. Применяйте критерии к структуре и доступу; само по себе хранение множества файлов не обязательно удовлетворяет определению."
-          }
+            "fr": "Le droit sui generis permet au producteur d’interdire certaines extractions et réutilisations de la totalité ou d’une partie substantielle du contenu. L’extraction est décrite comme un transfert sur un autre support, permanent ou temporaire, numérique ou manuel. La réutilisation vise la mise à disposition du public. Ne demandez pas seulement si toute la base a été copiée : qualifiez la quantité, la répétition et le caractère systématique des actes, leur effet sur l’investissement et l’exception éventuelle.",
+            "ru": "Право sui generis позволяет производителю препятствовать определённым извлечениям и повторному использованию всего содержания или существенной его части. Извлечение в материалах описано как перенос на другой носитель, постоянный или временный; оно может происходить цифровым или ручным способом. Повторное использование охватывает предоставление содержания публике. Не ограничивайтесь вопросом «скопировали ли базу целиком»: установите объём, повторяемость и систематический характер действий, влияние на инвестицию и применимость исключения."
+          },
+          "sources": [
+            {
+              "file": "4-Leçon 4 base de  données.pdf",
+              "pages": [
+                22,
+                23,
+                25,
+                26
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Deux couches de droits, deux questions",
-            "ru": "Два слоя прав — два разных вопроса"
+            "fr": "Exceptions et usages encadrés",
+            "ru": "Исключения и ограниченные использования"
           },
           "t": {
-            "fr": "Première question : la structure/architecture du recueil est-elle originale ? Cela peut relever du droit d’auteur. Deuxième question : le producteur a-t-il pris l’initiative et assumé le risque d’un investissement substantiel dans l’obtention, la vérification ou la présentation du contenu ? Cela peut ouvrir le droit sui generis. La protection de la structure ne prouve pas l’investissement substantiel, et inversement.",
-            "ru": "Первый вопрос: оригинальна ли структура/архитектура собрания? Это может охраняться авторским правом. Второй: проявил ли производитель инициативу и принял ли риск существенных вложений в получение, проверку или представление содержания? Это может дать право sui generis. Охрана структуры не доказывает существенные вложения и наоборот."
-          }
+            "fr": "Les diapositives examinent l’extraction de parties non substantielles, l’usage privé, certaines situations pédagogiques ou scientifiques et les conditions spécifiques des exceptions. Ne concluez pas que la copie est libre « pour les études » sans vérifier la condition exacte. Identifiez l’auteur de l’acte, la part extraite, la répétition des opérations et la finalité. L’affaire Directmedia illustre l’analyse du transfert de contenu entre supports. Présentez-la comme enseignement du cours, sans l’étendre à une interdiction illimitée de tout usage de faits.",
+            "ru": "Слайды обсуждают извлечение несущественных частей, личное использование, учебные и научные ситуации и специальные условия исключений. Не делайте вывод о свободном копировании «для учёбы» без проверки точного условия. Отдельно выясните, кто совершает действие, какая часть базы извлекается, повторяются ли действия и остаётся ли использование в законной цели. Судебный пример Directmedia иллюстрирует анализ переноса содержания между носителями. Излагайте его как материал лекции, а не расширяйте до неограниченного запрета на любое пользование фактами."
+          },
+          "sources": [
+            {
+              "file": "4-Leçon 4 base de  données.pdf",
+              "pages": [
+                24,
+                26,
+                27,
+                28,
+                29
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Extraction, réutilisation et durée",
-            "ru": "Извлечение, повторное использование и срок"
+            "fr": "Durée, nouvel investissement et exemple pratique",
+            "ru": "Срок, новые инвестиции и практический пример"
           },
           "t": {
-            "fr": "Le support définit largement l’extraction (transfert permanent ou temporaire de tout ou partie vers un autre support) et traite séparément la réutilisation. Pour chaque cas, demandez quelle partie est prise, si l’opération est répétée/systématique et si les exceptions du cours s’appliquent. La durée présentée pour le droit sui generis est de 15 ans, avec un nouveau point de départ en cas de nouvel investissement substantiel selon les diapositives.",
-            "ru": "Материалы широко определяют извлечение (постоянный или временный перенос всего содержания или части на другой носитель) и отдельно рассматривают повторное использование. В каждом случае выясняйте, какая часть взята, повторяется ли действие систематически и применимы ли исключения курса. Для права sui generis указан срок 15 лет; согласно слайдам, новые существенные вложения могут запустить новый срок."
-          }
+            "fr": "Le cours indique une durée de 15 ans et un nouveau point de départ en cas de nouvel investissement substantiel. Identifiez la base et le cycle d’investissement : une mise à jour calendaire ou l’accumulation ordinaire de données n’équivaut pas toujours à un investissement nouveau substantiel. Dans un catalogue, recopier isolément une petite entrée diffère d’un transfert régulier de parties importantes qui remplace l’accès à la base d’origine. Les preuves de l’investissement, de l’ampleur de l’extraction et du comportement sont centrales.",
+            "ru": "В лекции указан 15-летний срок права производителя и возможность нового срока после существенного нового вложения. При применении уточните, о какой базе и каком цикле инвестиции речь: календарное обновление или обычное накопление данных не всегда тождественно существенной новой инвестиции. В примере с каталогом конкурент может вручную перепечатать небольшую запись; анализ меняется, если он регулярно переносит значимые части и тем самым заменяет доступ к исходной базе. В иске доказательства вложений, объёма извлечения и поведения ответчика имеют значение."
+          },
+          "sources": [
+            {
+              "file": "4-Leçon 4 base de  données.pdf",
+              "pages": [
+                14,
+                15,
+                16,
+                30,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Méthode de réponse sur une base de données",
+            "ru": "Ответ по базе данных"
+          },
+          "t": {
+            "fr": "Для структурирования ответа используйте четыре шага: (1) соответствует ли собрание критериям L.112-3? (2) оригинальна ли структура? (3) кто производитель и доказаны ли существенные вложения? (4) является ли спорное действие извлечением или повторным использованием — существенным или повторяющимся — и применимо ли исключение? Сделайте отдельные выводы по авторскому праву и sui generis. Так вы не смешаете автора содержания, создателя структуры и инвестора-производителя.",
+            "ru": "Pour structurer un cas, écrivez quatre étapes : (1) la collection répond-elle aux critères L.112-3 ? (2) sa structure est-elle originale ? (3) qui est le producteur et quel investissement substantiel est établi ? (4) l’acte litigieux constitue-t-il extraction ou réutilisation, substantielle, répétée, et une exception s’applique-t-elle ? Concluez séparément sur droit d’auteur et droit sui generis. Cette méthode évite de confondre le créateur du contenu, le concepteur de la structure et le producteur investisseur."
+          },
+          "sources": [
+            {
+              "file": "4-Leçon 4 base de  données.pdf",
+              "pages": [
+                6,
+                7,
+                11,
+                14,
+                22,
+                25,
+                30,
+                31
+              ]
+            }
+          ]
         }
       ],
       "example": {
@@ -1303,6 +1822,7 @@
             23,
             24,
             25,
+            26,
             27,
             28,
             29,
@@ -1487,73 +2007,160 @@
       "blocks": [
         {
           "h": {
-            "fr": "Adresse et identité",
-            "ru": "Адрес и идентичность"
+            "fr": "Fonction technique et rôle juridique",
+            "ru": "Техническая функция и юридическая функция"
           },
           "t": {
-            "fr": "Le domaine correspond à une adresse IP plus facile à mémoriser. Il a une fonction d’adressage et d’identification d’une activité/site. Il se compose d’un radical et d’une extension.",
-            "ru": "Домен соответствует IP-адресу, который проще запомнить. Он адресует сайт и может идентифицировать деятельность. Состоит из основы и зоны."
-          }
+            "fr": "Le nom de domaine correspond à une adresse IP et permet de retrouver un site sans mémoriser une suite numérique. Juridiquement, le support le présente aussi comme outil d’adressage et d’identification commerciale, et comme élément utilisable pour les courriels. Ce sont différentes fonctions d’un même nom. L’existence d’un domaine ne règle pas à elle seule les questions de marque, de dénomination sociale ou de droit antérieur.",
+            "ru": "Доменное имя связано с IP-адресом компьютера и позволяет найти сайт, не запоминая числовой адрес. Юридически лекция рассматривает домен ещё и как средство адресации, идентификации и коммерческое обозначение в сети; домен может использоваться и для электронной почты. Это разные функции одного обозначения. Само наличие домена не отвечает на вопрос о бренде, фирменном наименовании или праве на более раннее обозначение."
+          },
+          "sources": [
+            {
+              "file": "5-Lecon  5  Noms de  domaine.pdf",
+              "pages": [
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Extensions et choix",
-            "ru": "Зоны и выбор"
+            "fr": "Composition du nom et niveaux",
+            "ru": "Состав имени и уровни"
           },
           "t": {
-            "fr": "Les supports distinguent extensions génériques (.com, .org, .net), nationales (.fr, .be), supranationales (.eu) et thématiques/personnalisées. Ils conseillent un nom simple, adapté au public visé, et la réservation des principales extensions.",
-            "ru": "В материалах различаются общие зоны (.com, .org, .net), национальные (.fr, .be), наднациональные (.eu) и тематические/персональные зоны. Рекомендуются простое имя, соответствие аудитории и резервирование основных зон."
-          }
+            "fr": "Le nom se compose d’un radical et d’une extension. Le radical de deuxième niveau contient lettres et/ou chiffres ; les slides donnent une longueur de 3 à 63 caractères et des règles sur le tiret selon la zone. L’extension de premier niveau est un TLD : générique (.com, .org, .net), national (.fr, .be…) ou autre. Lisez l’adresse de droite à gauche : extension supérieure, nom enregistré, puis éventuels sous-domaines.",
+            "ru": "Лекция делит доменное имя на основу и расширение. Основа второго уровня состоит из букв и/или цифр, может содержать дефис по правилам зоны; в слайдах указана длина от 3 до 63 знаков и ограничения на положение дефиса. Расширение первого уровня — TLD: общее (.com, .org, .net), национальное (.fr, .be и др.) или иное. При чтении адреса двигайтесь справа налево: сначала верхний уровень, затем зарегистрированное имя и возможные поддомены."
+          },
+          "sources": [
+            {
+              "file": "5-Lecon  5  Noms de  domaine.pdf",
+              "pages": [
+                15,
+                16,
+                17,
+                18,
+                19
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Ne pas confondre avec une marque",
-            "ru": "Не путать с товарным знаком"
+            "fr": "Types d’extensions et portée",
+            "ru": "Типы расширений и их значение"
           },
           "t": {
-            "fr": "Enregistrer un domaine ne vaut pas dépôt d’une marque. Le support décrit « premier arrivé, premier servi », sans contrôle préalable systématique des droits de tiers ; le déposant s’engage à les respecter et engage sa responsabilité.",
-            "ru": "Регистрация домена не равна регистрации товарного знака. В лекции действует принцип «первый пришёл — первый получил» без систематической предварительной проверки прав третьих лиц; заявитель обязуется их соблюдать и отвечает за нарушение."
-          }
+            "fr": "Les domaines génériques ne sont pas rattachés à un État ; le support donne .com, .org, .net, .info et des extensions destinées à certaines communautés professionnelles. Les ccTLD nationaux sont associés à un code pays ; les extensions supranationales, régionales, thématiques ou personnalisées expriment d’autres appartenances. Les slides décrivent certaines restrictions historiques, mais toutes les extensions ne sont pas aujourd’hui réservées à la catégorie suggérée par leur nom. La zone ne prouve ni l’emplacement du serveur ni l’audience réelle du site.",
+            "ru": "Общие домены не привязаны к государству; лекция приводит .com, .org, .net, .info и домены для определённых профессиональных сообществ. Национальные ccTLD связываются с кодом страны, а наднациональные/региональные и тематические расширения выражают географическую или тематическую принадлежность. Старые слайды описывают некоторые ограничения и условия регистрации, но не каждое расширение сегодня резервируется только для заявленной категории. Не делайте из имени зоны вывод о месте сервера или гарантированной аудитории сайта."
+          },
+          "sources": [
+            {
+              "file": "5-Lecon  5  Noms de  domaine.pdf",
+              "pages": [
+                20,
+                21,
+                22,
+                24,
+                25,
+                26,
+                27,
+                28,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Acteurs et litiges",
-            "ru": "Участники и споры"
+            "fr": "Vérifications avant l’enregistrement",
+            "ru": "Проверка названия до регистрации"
           },
           "t": {
-            "fr": "La leçon cite ICANN, AFNIC (.fr), EURid (.eu), UDRP, SYRELI et les juridictions. Certains détails réglementaires des diapositives sont anciens : ils sont cités comme contenu de cours.",
-            "ru": "В лекции названы ICANN, AFNIC (.fr), EURid (.eu), UDRP, SYRELI и суды. Некоторые регуляторные сведения на слайдах устарели; здесь они приводятся как материал курса."
-          }
+            "fr": "Le cours conseille un nom court, simple, mémorisable et cohérent avec l’activité et le public visé. Cette commodité n’est qu’une étape. Avant la demande, vérifiez les marques, dénominations et autres droits antérieurs, les restrictions de la zone et la disponibilité. L’ordre d’arrivée ne donne pas le droit d’usurper un signe appartenant à autrui. Cette vérification réduit le risque de litige et de transfert ultérieur.",
+            "ru": "Рекомендация лекции — выбирать короткое, простое, запоминаемое имя, соответствующее деятельности и адресатам сайта. Но удобство — только один этап. До заявки нужно проверить, не нарушает ли имя права на знак, фирменное наименование и другие обозначения; не содержит ли запрещённых элементов; доступно ли оно в выбранной зоне. Очередность регистрации не разрешает присваивать чужое обозначение. Разумная проверка снижает риск спора и расходов на последующий перенос."
+          },
+          "sources": [
+            {
+              "file": "5-Lecon  5  Noms de  domaine.pdf",
+              "pages": [
+                41,
+                42
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Structure technique et niveaux",
-            "ru": "Техническая структура и уровни"
+            "fr": "Les acteurs de l’enregistrement",
+            "ru": "Кто управляет регистрацией"
           },
           "t": {
-            "fr": "Le domaine associe un nom mémorisable à une adresse IP. Le support décompose le nom en radical et extension ; les domaines de deuxième niveau se situent sous une extension. L’adresse de courrier électronique utilise également le domaine, mais une adresse email et un nom de domaine ne sont pas le même objet.",
-            "ru": "Домен связывает запоминаемое имя с IP-адресом. Материалы делят имя на основу и расширение; домен второго уровня находится под расширением. Электронная почта также использует домен, но email-адрес и доменное имя — не одно и то же."
-          }
+            "fr": "Les slides distinguent ICANN, registres nationaux et bureaux d’enregistrement. ICANN coordonne le système et les extensions génériques ; l’AFNIC gère la zone .fr et les zones françaises citées ; EURid est associé à .eu ; le registrar conclut le contrat avec le demandeur et effectue l’enregistrement. Ne confondez pas le registre de la zone et l’intermédiaire commercial. La leçon souligne que tous les droits de tiers ne sont pas nécessairement contrôlés avant l’attribution : le demandeur doit choisir prudemment.",
+            "ru": "Слайды различают ICANN, национальные реестры и регистраторов. ICANN координирует систему и общие домены; AFNIC управляет зоной .fr и указанными французскими территориями; EURid связан с .eu; регистратор заключает договор с заявителем и оформляет регистрацию. Не путайте реестр зоны с посредником, продающим услугу. В лекции подчёркнуто, что при регистрации обычно не проводится полная предварительная проверка всех прав третьих лиц, поэтому ответственность за выбор имени лежит на заявителе."
+          },
+          "sources": [
+            {
+              "file": "5-Lecon  5  Noms de  domaine.pdf",
+              "pages": [
+                42,
+                43,
+                44,
+                45,
+                46,
+                47
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Réservation : premier arrivé et responsabilité",
-            "ru": "Регистрация: кто первым подал заявку и ответственность"
+            "fr": "Le droit conféré au titulaire du domaine",
+            "ru": "Какое право получает владелец домена"
           },
           "t": {
-            "fr": "Selon le cours, l’enregistrement suit en principe une logique de premier arrivé, premier servi. Le registrar ne vérifie pas nécessairement les droits antérieurs de tiers : le demandeur demeure responsable du choix. Avant de réserver, confrontez le nom aux marques et autres droits pertinents ; la réservation ne crée pas à elle seule une marque.",
-            "ru": "По курсу регистрация обычно основана на принципе «кто первым подал, того и домен». Регистратор не обязательно проверяет прежние права третьих лиц: ответственность за выбор остаётся за заявителем. До регистрации сопоставьте название с товарными знаками и другими правами; регистрация домена сама по себе не создаёт товарный знак."
-          }
+            "fr": "Le support présente un droit d’usage/exploitation du nom de domaine fondé sur l’enregistrement et le contrat. Il ne s’agit pas d’un droit absolu sur toutes les utilisations possibles du mot. Le titulaire peut utiliser et gérer le domaine dans le cadre des règles ; un tiers peut contester l’enregistrement s’il dispose d’un droit antérieur ou si le comportement est déloyal. Distinguez donc l’usage de l’adresse, la marque et les droits sur le site/contenu.",
+            "ru": "Материалы говорят о праве использования/эксплуатации доменного имени на основании регистрации и договора. Это не тождественно праву собственности на все возможные словесные обозначения. Титуляр может использовать домен и, в пределах правил, управлять им; третьи лица могут спорить с регистрацией, если есть более раннее право или недобросовестное поведение. Поэтому отделите административное право на адрес от бренда и от права на сайт/контент."
+          },
+          "sources": [
+            {
+              "file": "5-Lecon  5  Noms de  domaine.pdf",
+              "pages": [
+                48
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Résoudre un conflit : suivre la voie adaptée",
-            "ru": "Разрешение спора: выбрать подходящую процедуру"
+            "fr": "Résolution des litiges relatifs aux domaines",
+            "ru": "Способы разрешения доменных споров"
           },
           "t": {
-            "fr": "Les diapositives citent des mécanismes différents : UDRP au niveau international, SYRELI pour certains litiges .fr et voies judiciaires. Il faut vérifier l’extension, les règles de l’organisme compétent, les faits (confusion, intérêt légitime, mauvaise foi selon la procédure) et le remède demandé. Ne supposez pas qu’une procédure administrative remplace toujours le juge.",
-            "ru": "Слайды называют разные механизмы: UDRP на международном уровне, SYRELI для некоторых споров по .fr и судебные способы защиты. Нужно проверить расширение, правила компетентного органа, обстоятельства (сходство, законный интерес, недобросовестность — в зависимости от процедуры) и требуемую меру. Не исходите из того, что административная процедура всегда заменяет суд."
-          }
+            "fr": "Le cours cite la procédure administrative UDRP, la procédure française SYRELI et la voie judiciaire. Le choix dépend de l’extension, des règles procédurales et du résultat recherché. Un mécanisme extrajudiciaire peut être plus rapide et conduire au transfert ou à la suppression du domaine, sans nécessairement accorder des dommages-intérêts ni régler toutes les demandes en contrefaçon. Le juge peut connaître de demandes plus larges mais exige d’analyser compétence, loi applicable et preuve. Dans un cas, précisez la zone et le fondement invoqué.",
+            "ru": "Лекция называет административную UDRP, французскую процедуру SYRELI и судебное разбирательство. Выбор зависит от доменной зоны, правил применимой процедуры и желаемого результата. Внесудебный механизм может быть быстрее и привести к передаче или отмене домена, но не обязательно присуждает убытки и не заменяет все требования о нарушении знака. Судебный путь может охватывать больше способов защиты, но требует анализа юрисдикции, применимого права и доказательств. В кейсе укажите соответствующую зону и правовое основание."
+          },
+          "sources": [
+            {
+              "file": "5-Lecon  5  Noms de  domaine.pdf",
+              "pages": [
+                49,
+                50
+              ]
+            }
+          ]
         }
       ],
       "example": {
@@ -1564,22 +2171,33 @@
         {
           "file": "5-Lecon  5  Noms de  domaine.pdf",
           "pages": [
-            5,
+            6,
+            7,
+            8,
             9,
             10,
             11,
             12,
             15,
+            16,
+            17,
+            18,
             19,
             20,
             21,
             22,
+            24,
+            25,
+            26,
             27,
+            28,
+            30,
             31,
             32,
             33,
+            34,
+            35,
             36,
-            37,
             41,
             42,
             43,
@@ -1763,83 +2381,303 @@
       "blocks": [
         {
           "h": {
-            "fr": "Conditions générales",
-            "ru": "Общие условия"
+            "fr": "Le brevet : un droit exclusif sur une solution technique",
+            "ru": "Патент как исключительное право на техническое решение"
           },
           "t": {
-            "fr": "Vérifier l’existence d’une invention nouvelle, une activité inventive (non-évidence pour l’homme du métier), une application industrielle et l’absence d’exclusion spéciale. L’état de la technique inclut ce qui a été rendu public avant le dépôt.",
-            "ru": "Нужно проверить наличие нового изобретения, изобретательского уровня (неочевидность для специалиста), промышленной применимости и отсутствие специального исключения. Уровень техники включает всё, что стало доступно публике до подачи."
-          }
+            "fr": "Le brevet est un titre de propriété industrielle portant sur une invention ; la solution technique doit satisfaire les conditions du cours. La leçon décrit l’invention comme une solution à un problème technique par des moyens techniques, susceptible de répétition. Commencez par décrire problème et solution plutôt que par le nom du produit. Vérifiez ensuite les conditions, exclusions, inventeur et procédure. Le brevet permet d’interdire certains actes, mais implique aussi redevances et obligations d’exploitation.",
+            "ru": "Патент — титул промышленной собственности на изобретение; для охраны нужна новая техническая разработка, отвечающая условиям курса. Лекция описывает изобретение через решение технической проблемы техническими средствами, которое можно повторить. Начинайте с формулировки проблемы и решения, а не с названия продукта. После квалификации последовательно проверьте условия, исключения, лицо изобретателя и процедуру подачи. Патент предоставляет исключительные права на определённые акты, но также предполагает пошлины и эксплуатационные обязанности."
+          },
+          "sources": [
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                6,
+                11,
+                12,
+                13
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Exclusions et logiciel",
-            "ru": "Исключения и ПО"
+            "fr": "Les trois conditions cumulatives",
+            "ru": "Три обязательных критерия"
           },
           "t": {
-            "fr": "Les slides citent découvertes, théories, méthodes mathématiques, créations esthétiques, programmes en tant que tels et présentations d’informations parmi les exclusions. Une combinaison machine–logiciel ou un effet technique supplémentaire est examiné comme exception possible.",
-            "ru": "Среди исключений слайды называют открытия, теории, математические методы, эстетические произведения, программы как таковые и представление информации. Связка машина–ПО или дополнительный технический эффект рассматриваются как возможное исключение."
-          }
+            "fr": "Le cours retient trois conditions cumulatives : nouveauté, activité inventive et application industrielle. La nouveauté ne compense pas l’absence d’activité inventive ; l’application industrielle ne rend pas brevetable un objet légalement exclu. Traitez chaque critère séparément puis vérifiez les exclusions particulières. Dans une copie, utilisez trois sous-parties et appliquez chaque condition aux faits précis.",
+            "ru": "Курс перечисляет три совокупных условия патентоспособности: новизна, изобретательский уровень и промышленная применимость. Новизна не компенсирует отсутствие изобретательского уровня; промышленная применимость не делает патентоспособным объект, исключённый законом. Анализируйте каждый критерий отдельно и завершайте проверкой специальных исключений. В экзаменационном ответе полезно сделать три коротких подзаголовка и применить каждый к конкретным фактам задачи."
+          },
+          "sources": [
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                8,
+                9,
+                10
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Inventeur et salarié",
-            "ru": "Изобретатель и работник"
+            "fr": "Nouveauté et état de la technique",
+            "ru": "Новизна и уровень техники"
           },
           "t": {
-            "fr": "Le droit appartient à l’inventeur ou son ayant cause ; en cas d’inventions indépendantes, le support retient la date de dépôt la plus ancienne. Il distingue inventions de mission, hors mission attribuables sous certaines conditions, et le cas des stagiaires.",
-            "ru": "Право принадлежит изобретателю или правопреемнику; при независимых изобретениях лекция учитывает более раннюю дату подачи. Различаются служебные изобретения, некоторые передаваемые работодателю внеслужебные и случай стажёров."
-          }
+            "fr": "Selon les slides, une invention est nouvelle si elle n’est pas comprise dans l’état de la technique. Celui-ci comprend tout ce qui a été rendu accessible au public avant le dépôt par description écrite ou orale, usage ou tout autre moyen. Une démonstration ou publication publique antérieure peut donc détruire la nouveauté, même si le demandeur l’ignorait. L’exemple de la Nitrovine distingue médicament connu et nouvelle fonction envisagée. Fixez toujours la date de dépôt et le contenu de la divulgation antérieure.",
+            "ru": "По слайдам изобретение ново, если не входит в уровень техники. В него входит всё, что было доступно публике до даты подачи заявки через письменное или устное описание, использование или иной способ раскрытия. Значит, публичная демонстрация или публикация до подачи может разрушить новизну, даже если заявитель не знал о ней. Лекция приводит пример нового применения известного антибиотика: вопрос состоит в том, что именно раскрывалось ранее. Всегда фиксируйте дату подачи и содержание источника."
+          },
+          "sources": [
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                28,
+                29,
+                30
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Droits, obligations, procédure",
-            "ru": "Права, обязанности, процедура"
+            "fr": "Activité inventive et personne du métier",
+            "ru": "Изобретательский уровень и специалист"
           },
           "t": {
-            "fr": "Le breveté peut interdire certains actes de fabrication, offre, vente, usage et import/export ; il peut aussi céder ou licencier. Les supports mentionnent annuités, licences obligatoires en cas de défaut d’exploitation dans les trois ans et durée maximale de 20 ans. La demande contient description, revendications et abrégé ; les routes citées sont INPI, OEB et OMPI.",
-            "ru": "Патентообладатель может запрещать изготовление, предложение, продажу, использование и импорт/экспорт; может уступать патент и выдавать лицензию. Указаны ежегодные сборы, принудительные лицензии при неиспользовании в течение трёх лет и максимум 20 лет. Заявка содержит описание, формулу и реферат; названы пути INPI, EPO и WIPO."
-          }
+            "fr": "L’invention ne doit pas découler de manière évidente de l’état de la technique pour la personne du métier. Ce n’est pas la perception subjective de l’auteur : on apprécie l’évidence technique pour un spécialiste du domaine. Présentez les solutions antérieures pertinentes, la différence et le résultat technique, puis demandez si la solution s’imposait de façon évidente. Le support souligne qu’il faut dépasser la simple continuation de solutions connues ; la nouveauté commerciale ne remplace pas ce critère.",
+            "ru": "Изобретение должно не вытекать очевидным образом из уровня техники для специалиста в соответствующей области. Это не субъективный вопрос «кажется ли автору оригинальным»: оценивается техническая очевидность для условного специалиста, знакомого с областью. Опишите ближайшие известные решения, различие и технический результат; затем спросите, было ли очевидно получить решение. Лекция формулирует, что иногда требуется выйти за рамки простого продолжения привычных решений, но нельзя подменять этот критерий коммерческой новизной."
+          },
+          "sources": [
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                31,
+                32
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Appliquer les trois conditions de brevetabilité",
-            "ru": "Проверка трёх условий патентоспособности"
+            "fr": "Application industrielle et exclusions",
+            "ru": "Применимость и исключённые объекты"
           },
           "t": {
-            "fr": "Construisez la réponse en trois étapes cumulatives : (1) nouveauté — l’invention n’est pas comprise dans l’état de la technique pertinent ; (2) activité inventive — elle ne découle pas de manière évidente pour la personne du métier ; (3) application industrielle — elle peut être fabriquée ou utilisée dans l’industrie au sens du cours. L’échec d’une condition suffit à faire obstacle au brevet.",
-            "ru": "Стройте ответ из трёх совокупных этапов: (1) новизна — изобретение не входит в соответствующий уровень техники; (2) изобретательский уровень — оно не является очевидным для специалиста; (3) промышленная применимость — его можно изготовить или использовать в промышленности согласно курсу. Несоблюдение одного условия препятствует патенту."
-          }
+            "fr": "L’application industrielle suppose que l’objet puisse être fabriqué ou utilisé dans un genre d’industrie. Les slides excluent séparément découvertes, théories scientifiques, méthodes mathématiques, méthodes abstraites, créations purement esthétiques, règles d’activités intellectuelles et présentations d’informations. Un plan peut toutefois contenir une optimisation technique : identifiez la solution technique précise. Le support traite aussi des méthodes de traitement chirurgical ou thérapeutique du corps humain ou animal et des inventions contraires à la dignité, l’ordre public ou aux bonnes mœurs.",
+            "ru": "Промышленная применимость означает, что объект можно изготовить или использовать в отрасли. Отдельно слайды исключают открытия, научные теории, математические методы, абстрактные методы, чисто эстетические решения, правила интеллектуальной деятельности и презентацию информации. Некоторые планы или формы могут содержать техническую оптимизацию, поэтому важно определить техническое решение внутри объекта. Также рассматриваются методы хирургического или терапевтического лечения и изобретения, противоречащие достоинству человека, общественному порядку или добрым нравам."
+          },
+          "sources": [
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                33,
+                34,
+                35
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Invention technique et exclusions",
-            "ru": "Техническое изобретение и исключения"
+            "fr": "Logiciel et brevet : programme en tant que tel et effet technique",
+            "ru": "ПО и патент: программа как таковая и эффект"
           },
           "t": {
-            "fr": "Les supports distinguent une solution technique d’une découverte, théorie scientifique, méthode mathématique, méthode abstraite, création esthétique ou simple présentation d’informations. Un programme « en tant que tel » est exclu dans les diapositives ; le cours examine séparément le programme associé à un effet technique et l’interaction avec une machine. Décrivez concrètement le problème et l’effet technique, sans assimiler toute informatisation à une invention brevetable.",
-            "ru": "Материалы отличают техническое решение от открытия, научной теории, математического метода, абстрактного метода, эстетического произведения или простой подачи информации. Программа «как таковая» исключена в слайдах; курс отдельно рассматривает программу с техническим эффектом и взаимодействие с машиной. Конкретно опишите проблему и технический эффект, не считая любую компьютеризацию патентоспособным изобретением."
-          }
+            "fr": "Le programme « en tant que tel » est exclu selon la leçon ; le droit d’auteur protège le logiciel. Les slides examinent des procédés techniques mis en œuvre par programme, le couple machine-programme et l’effet technique supplémentaire. Exemples : ABS, équipement radiologique, Schlumberger, Koch, Viacom et IBM. Décrivez le problème technique résolu et l’effet supplémentaire produit lors de l’exécution. Ne concluez pas que tout algorithme ou toute mise en œuvre informatique devient brevetable.",
+            "ru": "Программа «как таковая» исключена из патентоспособности в изложении лекции; ПО охраняется авторским правом. В слайдах разбираются ситуации, когда заявка относится к техническому процессу, связке машины и программы либо даёт дополнительный технический эффект. Примеры включают ABS, рентгеновское оборудование, Schlumberger, Koch, Viacom и IBM. Для анализа опишите, какую техническую проблему решает комбинация и какой дополнительный эффект возникает при исполнении кода. Не утверждайте, что всякий алгоритм или компьютерная реализация становится патентом."
+          },
+          "sources": [
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Qui invente ? Qui peut détenir le brevet ?",
-            "ru": "Кто изобретатель и кому может принадлежать патент?"
+            "fr": "Inventeur et copropriétaires",
+            "ru": "Кто изобретатель и совладельцы"
           },
           "t": {
-            "fr": "Séparez la qualité d’inventeur de la titularité du titre. Les diapositives abordent salariés, stagiaires, agents publics, co-inventeurs et revendication de droits par l’inventeur. Recherchez les contributions inventives, le statut, les missions, les déclarations et les contrats. Le support sur l’IA présente l’inventeur comme humain ; restituez cette position de cours et n’attribuez pas une qualité d’inventeur à un système.",
-            "ru": "Различайте статус изобретателя и владение патентом. Слайды рассматривают работников, стажёров, государственных служащих, соизобретателей и требования изобретателя о признании прав. Проверяйте изобретательский вклад, статус, обязанности, уведомления и договоры. Материалы об ИИ считают изобретателем человека; передавайте позицию курса и не приписывайте статус изобретателя системе."
-          }
+            "fr": "Le titre appartient à l’inventeur ou à son ayant cause selon le texte cité. En cas de plusieurs inventeurs, identifiez la contribution réelle à la solution technique ; financer, diriger ou exécuter des tâches routinières ne signifie pas nécessairement inventer. Les slides décrivent la copropriété : chaque copropriétaire peut exploiter l’invention en indemnisant les autres et concéder certaines licences non exclusives ; la licence exclusive exige l’accord de tous ou une autorisation judiciaire. Vérifiez convention et parts.",
+            "ru": "Патентный титул принадлежит изобретателю или правопреемнику по изложенной норме. При нескольких изобретателях важно установить реальный вклад в техническое решение; простое финансирование, руководство или выполнение рутинных инструкций не всегда равно изобретательству. Слайды описывают совместное владение: совладельцы могут использовать решение при компенсации другим, выдавать неисключительную лицензию с предусмотренной компенсацией; исключительная лицензия требует согласия всех либо судебного разрешения. Проверяйте договор и доли."
+          },
+          "sources": [
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                47,
+                48,
+                49,
+                50
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Après la délivrance : droits et contraintes",
-            "ru": "После выдачи: права и ограничения"
+            "fr": "Invention du salarié, du stagiaire et rôle de l’IA",
+            "ru": "Изобретение работника, стажёра и ИИ"
           },
           "t": {
-            "fr": "Le brevet confère le pouvoir d’interdire certains actes, mais le cours mentionne des limites et l’épuisement des droits. Le titulaire doit aussi suivre les annuités ; les diapositives évoquent l’obligation d’exploiter dans le délai indiqué et la possibilité de licence obligatoire. À l’examen, présentez ensemble le monopole, sa durée annoncée (jusqu’à 20 ans dans le support) et les obligations/limites.",
-            "ru": "Патент даёт право запрещать определённые действия, но курс указывает на ограничения и исчерпание прав. Владелец должен уплачивать ежегодные пошлины; слайды упоминают обязанность использовать изобретение в указанный срок и возможность принудительной лицензии. В ответе на экзамене укажите и исключительное право, и срок (в материалах — до 20 лет), и обязанности/ограничения."
-          }
+            "fr": "La leçon distingue inventions de mission, inventions du salarié hors mission et régime particulier des agents publics ; les slides soulignent le statut distinct du stagiaire et l’action en revendication. Il faut vérifier fonctions, mission, contrat, date et contribution. Les diapositives DABUS présentent la position de l’OEB selon laquelle l’inventeur désigné doit être une personne humaine ; n’attribuez pas de personnalité juridique à la machine sur la base du cours. Le slide AI Act expose dates et catégories de risque comme contenu pédagogique, non comme revue exhaustive des règles actuelles.",
+            "ru": "Лекция различает служебные изобретения, изобретения работников вне поручения и специальные режимы публичной службы; для стажёра слайды подчёркивают отдельный статус и возможность требования о признании прав. Для каждой ситуации нужны обязанности, поручение, договор, дата и вклад. Отдельные слайды о DABUS приводят позицию ЕПВ: обозначенный изобретатель должен быть человеком; не приписывайте машине юридическую личность по материалам курса. Слайд об AI Act пересказывает дату и риск-категории как содержание курса, а не как полный обзор актуальных норм."
+          },
+          "sources": [
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                51,
+                52,
+                53,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Dépôt, pièces, durée et obligations",
+            "ru": "Подача, документы, срок и обязанности"
+          },
+          "t": {
+            "fr": "Les slides citent la procédure nationale INPI, européenne OEB et internationale OMPI, ainsi que requête, description, dessins, revendications et abrégé. Les revendications définissent la portée demandée ; la description expose la solution. Après délivrance, le titulaire peut licencier, céder, apporter le brevet en société ou le nantir. Il paie des annuités et doit tenir compte de l’obligation d’exploitation ; le cours indique un délai de trois ans avant certaines licences obligatoires en cas de non-exploitation. La durée maximale présentée est de 20 ans sous réserve des conditions.",
+            "ru": "Слайды называют национальную процедуру INPI, европейскую OEB и международную OMPI, а среди документов — заявление, описание, чертежи, формулу изобретения и реферат. Формула определяет запрашиваемый объём; описание раскрывает решение. После выдачи владелец может разрешать использование, уступать право, вносить его в общество или закладывать. Он уплачивает ежегодные пошлины и должен учитывать обязанность эксплуатации; в курсе приводится срок три года до возможности принудительной лицензии при неиспользовании. Указанный максимум срока — до 20 лет при соблюдении условий."
+          },
+          "sources": [
+            {
+              "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
+              "pages": [
+                67,
+                68,
+                69
+              ]
+            },
+            {
+              "file": "2-Séance 06 - Le droit des brevets dinvention - 2(7).pdf",
+              "pages": [
+                4,
+                5,
+                6,
+                8,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Что именно может запретить патентообладатель",
+            "ru": "Какие действия может запрещать патентообладатель"
+          },
+          "t": {
+            "fr": "Слайды перечисляют производство, предложение, введение в оборот, использование, импорт, экспорт, транзит и хранение запатентованного продукта для этих целей. Для патентованного способа анализируется его использование и предложение использования; отдельно назван продукт, непосредственно полученный этим способом. Также рассматривается поставка средств, относящихся к существенному элементу изобретения, лицу, не уполномоченному на эксплуатацию, при осведомлённости поставщика. В казусе укажите конкретный акт и связь с формулой патента, а не пишите только «использовал патент».",
+            "ru": "Les slides énumèrent fabrication, offre, mise dans le commerce, utilisation, importation, exportation, transbordement et détention du produit breveté à ces fins. Pour un procédé, examinez son utilisation ou l’offre de son utilisation ; le support vise aussi le produit obtenu directement par le procédé. Il traite enfin de la fourniture de moyens se rapportant à un élément essentiel à une personne non autorisée, lorsque le fournisseur connaît leur destination. Dans un cas, nommez l’acte précis et son lien avec les revendications, au lieu d’écrire seulement « utiliser le brevet »."
+          },
+          "sources": [
+            {
+              "file": "2-Séance 06 - Le droit des brevets dinvention - 2(7).pdf",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Исключения: исчерпание и прежнее личное владение",
+            "ru": "Исключения: исчерпание и прежнее личное владение"
+          },
+          "t": {
+            "fr": "По слайдам право исчерпывается после первого законного введения конкретного экземпляра в оборот патентообладателем или с его согласия/через лицензиата; это ограничивает возможность запрещать последующее обращение того же экземпляра. Отдельно лекция называет личное владение/использование, существовавшее до подачи заявки. В задаче уточните, тот ли самый экземпляр перепродаётся и была ли первая продажа законной; не путайте исчерпание прав на проданный экземпляр с разрешением производить новые экземпляры.",
+            "ru": "Selon les slides, les droits s’épuisent après la première mise en circulation licite de l’exemplaire concerné par le titulaire ou son licencié, ce qui limite l’interdiction de la revente de ce même exemplaire. Le support mentionne séparément la possession personnelle antérieure au dépôt. Vérifiez si la revente porte sur le même exemplaire et si sa première commercialisation était licite ; l’épuisement ne vaut pas autorisation de fabriquer de nouveaux exemplaires."
+          },
+          "sources": [
+            {
+              "file": "2-Séance 06 - Le droit des brevets dinvention - 2(7).pdf",
+              "pages": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Лицензии и теория существенной инфраструктуры",
+            "ru": "Licences et théorie des infrastructures essentielles"
+          },
+          "t": {
+            "fr": "Патент можно лицензировать, уступить, внести в общество или предоставить в залог. Отдельная лекция разбирает теорию essential facilities: предприятие контролирует ресурс, необходимый конкурентам, который нельзя разумно заменить или воспроизвести; отказ способен исключить конкурентов с рынка. Слайды требуют проверить существенность, отсутствие разумной альтернативы, возможность доступа, злоупотребление и вред конкуренции. Простое желание конкурента получить удобный ресурс недостаточно. При наличии условий отказ может повлечь обязанность сотрудничать на недискриминационных условиях.",
+            "ru": "Le brevet peut être licencié, cédé, apporté à une société ou nanti. Une autre leçon développe la théorie des infrastructures essentielles : une entreprise contrôle une ressource indispensable aux concurrents, qui ne peut être remplacée ou reproduite raisonnablement ; un refus peut les exclure du marché. Les slides demandent de vérifier caractère essentiel, absence d’alternative raisonnable, possibilité d’accès, abus et atteinte à la concurrence. Le simple intérêt d’un concurrent pour une ressource commode ne suffit pas. Si les conditions sont réunies, l’accès peut devoir être accordé sans discrimination."
+          },
+          "sources": [
+            {
+              "file": "2-Séance 06 - Le droit des brevets dinvention - 2(7).pdf",
+              "pages": [
+                4,
+                10,
+                12,
+                13,
+                14,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Примеры существенной инфраструктуры и FRAND",
+            "ru": "Примеры существенной инфраструктуры и FRAND"
+          },
+          "t": {
+            "fr": "Материалы иллюстрируют теорию доступом к железнодорожным и транспортным сетям, локальной петле France Télécom, электрическим сетям EDF, спискам абонентов и базам данных. Для стандартизированного патента слайды обсуждают лицензирование FRAND (справедливые, разумные и недискриминационные условия) и дела Motorola/Apple и Huawei/ZTE. Эти примеры помогают увидеть, что спор касается не абстрактного права на патент, а сочетания зависимости конкурентов, стандарта, условий лицензии и возможного вытеснения. В экзамене воспроизводите условия и называйте пример только как иллюстрацию курса.",
+            "ru": "Les supports illustrent la théorie par accès à des installations ferroviaires et réseaux de transport, boucle locale France Télécom, réseau électrique EDF, listes d’abonnés et bases de données. Pour un brevet essentiel à une norme, ils évoquent licences FRAND (fair, reasonable and non-discriminatory) et Motorola/Apple, Huawei/ZTE. Ces exemples montrent que l’analyse porte sur dépendance des concurrents, standard, conditions de licence et risque d’éviction, pas uniquement sur l’existence d’un brevet. À l’examen, énoncez les conditions et utilisez les affaires comme illustrations du cours."
+          },
+          "sources": [
+            {
+              "file": "2-Séance 06 - Le droit des brevets dinvention - 2(7).pdf",
+              "pages": [
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+              ]
+            }
+          ]
         }
       ],
       "example": {
@@ -1850,13 +2688,26 @@
         {
           "file": "1-Partie  1-titre  1 - Le droit des brevets dinvention - 1.pdf",
           "pages": [
+            6,
             8,
+            9,
             10,
+            11,
+            12,
+            13,
+            18,
+            19,
+            20,
+            21,
             22,
             23,
+            24,
+            25,
+            26,
             27,
             28,
             29,
+            30,
             31,
             32,
             33,
@@ -1864,7 +2715,11 @@
             35,
             38,
             39,
+            40,
+            41,
+            42,
             43,
+            44,
             47,
             48,
             49,
@@ -1872,7 +2727,17 @@
             51,
             52,
             53,
+            55,
+            56,
+            57,
+            58,
             59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
             67,
             68,
             69
@@ -1886,12 +2751,19 @@
             6,
             8,
             9,
+            10,
             12,
             13,
             14,
             15,
+            16,
+            17,
+            18,
             19,
-            20
+            20,
+            21,
+            22,
+            23
           ]
         }
       ],
@@ -2103,73 +2975,167 @@
       "blocks": [
         {
           "h": {
-            "fr": "Objet et critères",
-            "ru": "Объект и критерии"
+            "fr": "Objet protégé : l’apparence",
+            "ru": "Объект охраны — внешний вид"
           },
           "t": {
-            "fr": "Le dessin est présenté comme bidimensionnel, le modèle comme tridimensionnel. La protection porte sur l’apparence (lignes, contours, couleurs, forme, texture, matériaux) et suppose nouveauté et caractère propre. Une forme dictée uniquement par la fonction appelle le raisonnement du brevet.",
-            "ru": "Рисунок представлен как двухмерный, модель — как трёхмерная. Охраняется внешний вид (линии, контуры, цвета, форма, текстура, материалы), при условии новизны и индивидуального характера. Форма, определённая только функцией, относится к патентному анализу."
-          }
+            "fr": "Le dessin ou modèle protège l’apparence d’un produit ou d’une partie, déterminée par lignes, contours, couleurs, forme, texture et matériaux. La leçon distingue dessin bidimensionnel et modèle tridimensionnel et montre leur représentation par vues ou dessins. L’objet est une apparence perceptible, non la fonction technique elle-même. Dans un cas, identifiez le produit puis les caractéristiques visuelles que le déposant veut protéger.",
+            "ru": "Промышленный образец защищает вид изделия или его части, который определяется линиями, контурами, цветами, формой, текстурой и материалом. Лекция различает двумерный рисунок и трёхмерную модель и показывает, как представлять внешний вид изображениями/чертежами. Охраняется эстетически воспринимаемая конфигурация, а не техническая функция как таковая. В кейсе сначала определите изделие, затем перечислите визуальные признаки, которые заявитель хочет зарезервировать."
+          },
+          "sources": [
+            {
+              "file": "3-Séance 07- Droit des dessins et  modeles 00.pdf",
+              "pages": [
+                6,
+                7,
+                9
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Enregistrement et durée",
-            "ru": "Регистрация и срок"
+            "fr": "La nouveauté",
+            "ru": "Новизна"
           },
           "t": {
-            "fr": "Le support cite INPI, EUIPO et OMPI. Le schéma visuel indique un dépôt de cinq ans renouvelable par périodes de cinq ans jusqu’à 25 ans ; il mentionne aussi une protection européenne non enregistrée de trois ans après divulgation.",
-            "ru": "В лекции названы INPI, EUIPO и WIPO. На схеме указаны первоначальные пять лет с продлением по пять лет до 25 лет; также упомянута незарегистрированная европейская охрана на три года после раскрытия."
-          }
+            "fr": "La nouveauté s’apprécie par comparaison avec les dessins ou modèles divulgués antérieurement. Le support la présente comme condition distincte, non comme appréciation subjective de beauté. Rassemblez vues antérieures, dates de divulgation et produits pertinents, puis relevez les différences d’apparence. Un détail peut compter différemment selon l’impression d’ensemble et la liberté du créateur. Ne confondez pas ce test avec l’originalité du droit d’auteur ni avec l’activité inventive du brevet.",
+            "ru": "Новизна проверяется сравнением с ранее раскрытыми образцами. В материалах это отдельное условие регистрации, а не субъективная оценка привлекательности. Соберите предшествующие изображения, даты раскрытия и релевантные изделия, затем перечислите различия внешнего вида. Обычное отличие в детали может иметь разное значение в зависимости от общего впечатления и свободы дизайнера. Не смешивайте эту проверку с оригинальностью авторского права и не используйте критерий патентной изобретательности."
+          },
+          "sources": [
+            {
+              "file": "3-Séance 07- Droit des dessins et  modeles 00.pdf",
+              "pages": [
+                9,
+                10
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Cumul avec droit d’auteur",
+            "fr": "Caractère propre et utilisateur averti",
+            "ru": "Индивидуальный характер и информированный пользователь"
+          },
+          "t": {
+            "fr": "Le second critère est le caractère propre : le dessin doit produire sur l’utilisateur averti une impression globale différente des modèles antérieurs. Motivez cette impression à partir des éléments visuels pris ensemble, non du seul usage technique ou du nom du modèle. Identifiez la catégorie de produits et la marge de liberté du créateur, puis comparez formes, proportions, lignes et détails. Le cours exige d’examiner caractère propre et nouveauté ensemble.",
+            "ru": "Второй ключевой критерий — индивидуальный характер: образец должен создавать у информированного пользователя общее впечатление, отличающееся от ранее существовавших образцов. Аргументируйте впечатление через визуальные признаки в целом, а не только через техническое назначение или название модели. Сначала установите соответствующую категорию изделий и доступную дизайнеру свободу, затем сопоставьте форму, пропорции, линии и детали. В курсе этот критерий сочетается с новизной; оба должны быть рассмотрены."
+          },
+          "sources": [
+            {
+              "file": "3-Séance 07- Droit des dessins et  modeles 00.pdf",
+              "pages": [
+                9,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Fonction technique et ordre public",
+            "ru": "Техническая функция и общественный порядок"
+          },
+          "t": {
+            "fr": "Les caractéristiques exclusivement imposées par la fonction technique ne sont pas protégées comme apparence selon le cours. Distinguez les choix visuels des formes indispensables à l’assemblage ou au fonctionnement. D’autres slides abordent l’ordre public et des reprises de motifs culturels ou patrimoniaux. Ces exemples demandent une analyse du contexte : n’affirmez ni que tout motif traditionnel est interdit, ni qu’il peut toujours être librement approprié.",
+            "ru": "Характеристики, продиктованные исключительно технической функцией, не защищаются как внешний вид по изложенным в лекции правилам. Отделите эстетически выбранные признаки от формы, необходимой для соединения или работы изделия. Отдельные слайды рассматривают ограничения, связанные с публичным порядком и культурным наследием/заимствованием мотивов. Эти примеры требуют внимательного анализа контекста; не делайте общего вывода, что любой традиционный орнамент запрещено использовать или, наоборот, свободно присваивать."
+          },
+          "sources": [
+            {
+              "file": "3-Séance 07- Droit des dessins et  modeles 00.pdf",
+              "pages": [
+                10,
+                14,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Enregistrement et territoire",
+            "ru": "Регистрация и территория"
+          },
+          "t": {
+            "fr": "Les slides citent INPI pour la France, EUIPO pour le dessin ou modèle de l’UE et OMPI pour la voie internationale. Avant le dépôt, définissez les marchés et territoires, préparez les vues et vérifiez la priorité. La leçon mentionne aussi un dessin ou modèle de l’UE non enregistré pour trois ans à compter de la divulgation sous certaines conditions, régime distinct de l’enregistrement. Un dépôt français ne donne pas automatiquement une protection mondiale.",
+            "ru": "Слайды называют INPI для Франции, EUIPO для образца ЕС и OMPI для международного маршрута. До регистрации нужно определить рынки и территории, подготовить изображения и проверить приоритет. В лекции также описан незарегистрированный образец ЕС со сроком три года от раскрытия при выполнении соответствующих условий; это отдельный механизм от зарегистрированного права. Не считайте регистрацию во Франции автоматически международной защитой."
+          },
+          "sources": [
+            {
+              "file": "3-Séance 07- Droit des dessins et  modeles 00.pdf",
+              "pages": [
+                27
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Durée de la protection",
+            "ru": "Сроки защиты"
+          },
+          "t": {
+            "fr": "Pour le dessin ou modèle enregistré, le cours indique une période initiale de cinq ans, renouvelable par périodes de cinq ans jusqu’à 25 ans. Pour calculer, partez de la date de dépôt et relevez les renouvellements : la protection maximale n’est pas nécessairement maintenue sans démarche. Le titulaire décide de renouveler et d’en supporter le coût. Distinguez cette durée des trois ans du dessin ou modèle de l’UE non enregistré.",
+            "ru": "Для зарегистрированного образца курс указывает первоначальные пять лет с продлением каждые пять лет до общего максимума 25 лет. При подсчёте фиксируйте дату подачи и периоды продления, не называя весь срок автоматическим бездействующим титулом. На рынке правообладатель должен решать, стоит ли сохранять охрану и платить за продление. Отличайте срок зарегистрированного образца от трёхлетнего срока незарегистрированного образца ЕС."
+          },
+          "sources": [
+            {
+              "file": "3-Séance 07- Droit des dessins et  modeles 00.pdf",
+              "pages": [
+                28
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Cumul avec le droit d’auteur",
             "ru": "Сочетание с авторским правом"
           },
           "t": {
-            "fr": "Le droit d’auteur exige l’originalité, le dessin/modèle la nouveauté. Le cumul est possible seulement si les critères des deux régimes sont remplis ; il n’est pas automatique. La leçon mentionne unité de l’art, Brompton, Cofemel et Lyre.",
-            "ru": "Авторское право требует оригинальности, режим образцов — новизны. Сочетание возможно только при выполнении условий обоих режимов и не возникает автоматически. Лекция называет единство искусства, Brompton, Cofemel и Lyre."
-          }
+            "fr": "Une même apparence peut relever de plusieurs régimes, mais les critères diffèrent. Le droit d’auteur exige l’originalité ; le dessin ou modèle requiert nouveauté et caractère propre et, dans le cadre présenté, une procédure d’enregistrement. Vérifiez chaque série de conditions séparément, puis comparez portée et dates. L’enregistrement d’un dessin ne prouve pas l’originalité ; le droit d’auteur ne remplace pas le dépôt du dessin ou modèle.",
+            "ru": "Один и тот же внешний вид может подпадать под разные режимы, но критерии не совпадают. Авторское право требует оригинальности; промышленный образец — новизны и индивидуального характера и обычно регистрации в изложении курса. Поэтому сначала независимо проверьте каждый набор условий, затем сопоставьте объём защиты и даты. Наличие регистрации дизайна не доказывает оригинальность, а авторско-правовая охрана не заменяет приоритетную регистрацию образца."
+          },
+          "sources": [
+            {
+              "file": "3-Séance 07- Droit des dessins et  modeles 00.pdf",
+              "pages": [
+                30,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                40,
+                41
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Limites et contrefaçon",
-            "ru": "Ограничения и контрафакция"
+            "fr": "Contrefaçon et moyens d’action",
+            "ru": "Нарушение и способы защиты"
           },
           "t": {
-            "fr": "Le support traite les limites d’ordre public et les reprises de motifs culturels comme sujets de discussion. Il décrit la contrefaçon comme civile et pénale et cite confiscation, destruction, dommages-intérêts et sanctions pénales.",
-            "ru": "Лекция обсуждает общественный порядок и заимствования культурных мотивов как пределы охраны. Контрафакция рассматривается как гражданское и уголовное нарушение; названы конфискация, уничтожение, возмещение ущерба и уголовные санкции."
-          }
-        },
-        {
-          "h": {
-            "fr": "Ce qui relève de l’apparence",
-            "ru": "Что относится к внешнему виду"
+            "fr": "La fin de la leçon traite des actes de contrefaçon et des conséquences civiles ou pénales. Comparez les représentations protégées au produit contesté et évaluez l’impression visuelle dans le périmètre enregistré. Établissez d’abord le titre et sa validité, puis la similitude et l’absence d’autorisation ou d’exception. Les slides mentionnent des sanctions : retenez la structure d’analyse et rattachez les montants précis aux pages du support, car ils dépendent de la version du texte.",
+            "ru": "В финале лекции рассматриваются действия, нарушающие права на образец, и гражданские/уголовные последствия. Сравнивайте охраняемое изображение с товаром ответчика и оценивайте общее визуальное впечатление в пределах зарегистрированного объёма. Сначала установите титул и действующий срок, затем сходство и отсутствие согласия/исключения. Слайды приводят санкции; для подготовки запоминайте структуру анализа и привязывайте конкретные цифры к страницам материала, поскольку они могут зависеть от редакции закона."
           },
-          "t": {
-            "fr": "Le dessin ou modèle protège l’apparence d’un produit ou d’une partie de produit : lignes, contours, couleurs, forme, texture et matériaux sont les éléments cités par le support. Distinguez le dessin (représentation bidimensionnelle dans la présentation) du modèle (représentation tridimensionnelle), tout en raisonnant sur l’apparence divulguée.",
-            "ru": "Промышленный образец защищает внешний вид изделия или его части: слайды называют линии, контуры, цвета, форму, текстуру и материалы. Различайте рисунок (двумерное представление в курсе) и модель (трёхмерное представление), анализируя раскрытый внешний вид."
-          }
-        },
-        {
-          "h": {
-            "fr": "Nouveauté et caractère propre",
-            "ru": "Новизна и индивидуальный характер"
-          },
-          "t": {
-            "fr": "Le cours exige une apparence nouvelle et un caractère propre. Comparez le dessin au corpus antérieur pertinent et demandez si l’impression visuelle d’ensemble diffère pour l’observateur averti, selon le test exposé. Les caractéristiques imposées exclusivement par la fonction technique ne sont pas l’objet de cette protection d’apparence.",
-            "ru": "Курс требует новизны внешнего вида и индивидуального характера. Сравните образец с релевантными предшествующими образцами и выясните, отличается ли общее зрительное впечатление для информированного пользователя по изложенному тесту. Характеристики, исключительно обусловленные технической функцией, не являются объектом этой охраны внешнего вида."
-          }
-        },
-        {
-          "h": {
-            "fr": "Dépôt, durée et cumul",
-            "ru": "Регистрация, срок и сочетание с авторским правом"
-          },
-          "t": {
-            "fr": "Les diapositives citent les voies INPI, EUIPO et OMPI et indiquent une période initiale de cinq ans, renouvelable par périodes de cinq ans jusqu’à 25 ans. Le support mentionne aussi le dessin ou modèle communautaire non enregistré pendant trois ans. Le cumul avec le droit d’auteur n’est pas automatique : il faut satisfaire séparément la nouveauté/caractère propre et l’originalité.",
-            "ru": "Слайды называют процедуры INPI, EUIPO и OMPI и указывают первоначальный срок пять лет с продлением пятилетними периодами до 25 лет. Также упоминается незарегистрированный образец ЕС на три года. Сочетание с авторским правом не автоматическое: отдельно должны соблюдаться новизна/индивидуальный характер и оригинальность."
-          }
+          "sources": [
+            {
+              "file": "3-Séance 07- Droit des dessins et  modeles 00.pdf",
+              "pages": [
+                43,
+                44
+              ]
+            }
+          ]
         }
       ],
       "example": {
@@ -2180,7 +3146,6 @@
         {
           "file": "3-Séance 07- Droit des dessins et  modeles 00.pdf",
           "pages": [
-            4,
             6,
             7,
             9,
@@ -2378,73 +3343,214 @@
       "blocks": [
         {
           "h": {
-            "fr": "Définition et formes",
-            "ru": "Определение и формы"
+            "fr": "Fonction de la marque et distinction des signes",
+            "ru": "Функция знака и различение обозначений"
           },
           "t": {
-            "fr": "Une marque distingue produits/services d’une personne de ceux d’autres personnes. Les formes décrites comprennent mots, noms, images, signes complexes, couleurs, formes, position, sons, mouvement et multimédia, si le signe peut être représenté clairement et précisément au registre.",
-            "ru": "Товарный знак различает товары/услуги одного лица и других. Рассматриваются слова, имена, изображения, сложные знаки, цвета, формы, позиция, звук, движение и мультимедиа при ясном и точном представлении в реестре."
-          }
+            "fr": "La marque distingue les produits ou services d’une personne de ceux des autres. Ne la confondez pas avec la dénomination sociale, le nom commercial, l’enseigne ou le nom de domaine : chacun identifie une réalité différente. Un même mot peut être utilisé dans plusieurs fonctions, mais un enregistrement ne crée pas automatiquement les autres droits. Dans un cas, dites précisément ce que le signe permet au public de distinguer.",
+            "ru": "Товарный знак служит для различения товаров или услуг одного лица от товаров/услуг других. Не смешивайте его с фирменным наименованием юридического лица, коммерческим названием предприятия, вывеской магазина или доменным именем: каждый знак выполняет самостоятельную идентифицирующую функцию. Одно словесное обозначение может использоваться в нескольких качествах, но регистрация в одном качестве не создаёт автоматически остальные права. В задаче назовите, что именно обозначение помогает публике различить."
+          },
+          "sources": [
+            {
+              "file": "4-Séance 08 - Le droit des marques.pdf",
+              "pages": [
+                4,
+                5,
+                6,
+                7
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Signes refusés",
-            "ru": "Основания для отказа"
+            "fr": "Les signes susceptibles de constituer une marque",
+            "ru": "Какие знаки могут быть товарным знаком"
           },
           "t": {
-            "fr": "Le support cite défaut de caractère distinctif, descriptivité, usage devenu courant, forme imposée par nature/fonction/valeur substantielle, emblèmes officiels sans autorisation, contrariété à l’ordre public, caractère trompeur et dépôt de mauvaise foi.",
-            "ru": "Лекция называет отсутствие различительной способности, описательность, переход в обычное употребление, форму, продиктованную природой/функцией/существенной ценностью, официальные эмблемы без разрешения, противоречие общественному порядку, вводящий в заблуждение знак и недобросовестную подачу."
-          }
+            "fr": "Les slides présentent marques verbales, figuratives, complexes, familles et indications géographiques, couleurs, formes tridimensionnelles, position, sons, mouvement et multimédia. Les signes olfactifs, gustatifs ou tactiles sont évoqués en théorie, mais le registre doit représenter l’objet de façon claire et précise. Il ne suffit pas d’invoquer « toutes les sensations » : les tiers doivent comprendre le signe exact et les produits concernés.",
+            "ru": "Слайды демонстрируют словесные, изобразительные, комбинированные, семейства и географические знаки, цвета/сочетания цветов, трёхмерные формы, позиционные, звуковые, движущиеся и мультимедийные знаки. Теоретически обсуждаются запахи, вкусы и тактильные признаки, однако практически необходима ясная и точная запись объекта охраны в реестре. Не достаточно заявить «все ощущения»: лицо должно понимать, какой именно знак зарегистрирован и какие товары им охватываются."
+          },
+          "sources": [
+            {
+              "file": "4-Séance 08 - Le droit des marques.pdf",
+              "pages": [
+                9,
+                10,
+                11,
+                17,
+                21,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Territoire, spécialité et durée",
-            "ru": "Территория, специализация и срок"
+            "fr": "Caractère distinctif et signes descriptifs",
+            "ru": "Различительная способность и описательные обозначения"
           },
           "t": {
-            "fr": "Le support distingue INPI (national), EUIPO (titre unitaire de l’Union) et OMPI (désignation de plusieurs pays, pas un titre mondial unique). Le droit porte sur les produits/services désignés (classification de Nice). La marque enregistrée dure 10 ans et se renouvelle indéfiniment par périodes de 10 ans.",
-            "ru": "Лекция различает INPI (национальный знак), EUIPO (единый знак ЕС) и WIPO (указание нескольких стран, а не единый мировой знак). Право относится к заявленным товарам/услугам по Ниццкой классификации. Регистрация действует 10 лет и бесконечно продлевается по 10 лет."
-          }
+            "fr": "Le critère central est l’aptitude du signe à indiquer l’origine commerciale des produits/services. Les termes génériques ou descriptions directes de la nature, qualité, destination ou provenance peuvent être refusés pour les produits concernés. Le même mot peut être descriptif dans un secteur et distinctif dans un autre ; lisez le libellé du dépôt. Les slides donnent des exemples de signes descriptifs et le contraste trafïc.fr : retenez le rôle du contexte, pas uniquement l’issue d’une affaire.",
+            "ru": "Ключевой фильтр — способность обозначения указывать на коммерческое происхождение товаров/услуг. Общие названия и прямые описания вида, качества, назначения, географии или иных характеристик могут быть отклонены для соответствующих продуктов. Один и тот же термин бывает описательным в одной отрасли и различительным в другой; проверяйте перечень товаров и услуги. В слайдах приведены примеры descriptive marks и контрастный пример знака trafïc.fr — запоминайте принцип контекста, а не конкретный исход дела."
+          },
+          "sources": [
+            {
+              "file": "4-Séance 08 - Le droit des marques.pdf",
+              "pages": [
+                33,
+                34,
+                35,
+                36,
+                37,
+                38
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Usage et litiges",
-            "ru": "Использование и споры"
+            "fr": "Autres motifs de refus ou de nullité",
+            "ru": "Другие основания отказа или недействительности"
           },
           "t": {
-            "fr": "La leçon aborde épuisement, citation/parodie, déchéance ou dégénérescence, renommée et contentieux avec un nom de domaine : contrefaçon, revendication, concurrence parasitaire, procédures alternatives (ICANN/AFNIC) ou juge. Elle montre aussi que nom commercial, enseigne, dénomination sociale et domaine sont des signes différents.",
-            "ru": "Лекция рассматривает исчерпание, цитирование/пародию, утрату прав и превращение в родовое название, известность и споры с доменами: контрафакция, истребование, паразитическая конкуренция, альтернативные процедуры (ICANN/AFNIC) или суд. Также различаются фирменное наименование, вывеска, название общества и домен."
-          }
+            "fr": "Le support énumère formes fonctionnelles, emblèmes officiels, signes contraires à l’ordre public, trompeurs, indications géographiques protégées et droits de tiers. Il traite aussi des noms/images de personnes, dénominations antérieures et dépôts de mauvaise foi. Un signe enregistré peut ensuite être contesté et annulé par la procédure appropriée. Construisez la réponse autour du motif précis : quel élément est interdit ou quel droit antérieur est heurté ?",
+            "ru": "Материалы перечисляют функциональную форму товара, официальные эмблемы, обозначения против публичного порядка, вводящие в заблуждение знаки, охраняемые географические указания и права третьих лиц. Отдельно обсуждаются имена и изображения людей, более ранние наименования и недобросовестная подача. Даже знак, прошедший экспертизу, может быть оспорен и признан недействительным в предусмотренной процедуре. Стройте ответ по конкретному основанию: что в знаке запрещено или почему он конфликтует с ранее возникшим правом?"
+          },
+          "sources": [
+            {
+              "file": "4-Séance 08 - Le droit des marques.pdf",
+              "pages": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "À quoi sert la marque ?",
-            "ru": "Для чего нужен товарный знак?"
+            "fr": "Territoire, dépôt et classes de Nice",
+            "ru": "Территория, заявка и классы Ниццы"
           },
           "t": {
-            "fr": "La marque distingue les produits ou services d’une personne de ceux d’autres personnes. Elle ne se confond pas avec la dénomination sociale, le nom commercial, l’enseigne ou le nom de domaine : chacun identifie une réalité différente et peut relever de règles distinctes. Le support illustre des formes verbales, figuratives, complexes, tridimensionnelles, sonores, de mouvement et multimédia.",
-            "ru": "Товарный знак отличает товары или услуги одного лица от товаров или услуг других лиц. Его нельзя смешивать с фирменным наименованием, коммерческим названием, вывеской или доменом: каждый обозначает разные объекты и может подпадать под свои правила. В материалах приведены словесные, изобразительные, комбинированные, объёмные, звуковые, движущиеся и мультимедийные знаки."
-          }
+            "fr": "La leçon distingue dépôt français INPI, marque de l’Union EUIPO et voie internationale OMPI. Le choix dépend du territoire recherché. La demande vise des produits/services classés selon Nice ; les slides indiquent 34 classes de produits et 11 de services. Cette liste délimite la spécialité. Un dépôt pour une classe ne donne pas un monopole général sur le mot dans toutes les activités.",
+            "ru": "Лекция различает французскую регистрацию INPI, знак Европейского союза EUIPO и международный путь OMPI. Выбор зависит от территории, где нужен титул. Заявка ограничивается перечнем товаров/услуг по Ниццкой классификации; слайды указывают 34 класса товаров и 11 классов услуг. Перечень определяет область специализации. Нельзя считать, что регистрация названия для одного класса даёт общий запрет на любое использование этого слова во всех видах деятельности."
+          },
+          "sources": [
+            {
+              "file": "4-Séance 08 - Le droit des marques.pdf",
+              "pages": [
+                52,
+                53,
+                54,
+                56,
+                57
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Проверка на различительную способность и запреты",
-            "ru": "Проверка различительной способности и запретов"
+            "fr": "Durée et portée des droits",
+            "ru": "Срок и содержание прав"
           },
           "t": {
-            "fr": "Avant le dépôt, demandez si le signe peut être représenté clairement et précisément dans le registre et s’il distingue les produits/services concernés. Le cours traite des signes génériques ou descriptifs, des formes fonctionnelles, des signes officiels, des signes contraires à l’ordre public ou trompeurs, des indications géographiques et des droits de tiers. Un signe distinctif pour une activité peut être descriptif pour une autre : le contexte compte.",
-            "ru": "Перед подачей проверьте, можно ли чётко и точно представить обозначение в реестре и отличает ли оно соответствующие товары/услуги. Курс рассматривает родовые и описательные обозначения, функциональные формы, официальные знаки, противоречащие публичному порядку или вводящие в заблуждение обозначения, географические указания и права третьих лиц. Один знак может быть различительным для одной деятельности и описательным для другой: важен контекст."
-          }
+            "fr": "La durée initiale est de dix ans, renouvelable indéfiniment sous réserve des formalités. L’enregistrement confère un droit exclusif pour les produits/services visés, non un monopole abstrait sur un mot. Le titulaire peut s’opposer à certains usages dans la vie des affaires, dans le périmètre du titre ; les marques renommées bénéficient d’une protection élargie selon les critères du cours. Vérifiez territoire, libellé, similitude et risque de confusion.",
+            "ru": "Первоначальная охрана зарегистрированного знака длится десять лет и может продлеваться неограниченно при выполнении требований. Регистрация даёт исключительное право для перечисленных товаров и услуг, но не абстрактную монополию на слово. Правообладатель может препятствовать использованию знака в коммерческой деятельности в пределах закона и объёма регистрации; знаменитые знаки могут получить расширенную охрану по изложенным критериям. Проверяйте территорию, перечень товаров, сходство знаков и вероятность смешения."
+          },
+          "sources": [
+            {
+              "file": "4-Séance 08 - Le droit des marques.pdf",
+              "pages": [
+                59,
+                60,
+                61,
+                77,
+                78,
+                79,
+                80
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Spécialité, territoire et maintien",
-            "ru": "Специализация, территория и поддержание охраны"
+            "fr": "Marque en ligne, épuisement et liberté d’expression",
+            "ru": "Использование в интернете, исчерпание и выражение"
           },
           "t": {
-            "fr": "Le dépôt est lié à un territoire (INPI, EUIPO, voie internationale OMPI) et aux produits/services désignés, classés selon la classification de Nice (34 classes de produits et 11 de services dans le support). La marque est donnée pour dix ans et peut être renouvelée indéfiniment. Le cours distingue renouvellement, usage, déchéance et dégénérescence : ce sont des questions différentes, à traiter selon les faits.",
-            "ru": "Регистрация связана с территорией (INPI, EUIPO, международная процедура OMPI) и указанными товарами/услугами, распределёнными по Ниццкой классификации (в материалах 34 класса товаров и 11 классов услуг). Знак действует десять лет и может продлеваться неограниченно. Курс различает продление, использование, утрату прав и превращение в родовое обозначение: это разные вопросы, зависящие от обстоятельств."
-          }
+            "fr": "Les litiges en ligne exigent d’identifier l’utilisateur du signe : annonceur, moteur de recherche, vendeur ou éditeur. La leçon traite mots-clés, référencement, atteinte à l’image, revente et limites à l’interdiction absolue de ventes en ligne. D’autres slides abordent parodie, publicité comparative et liberté d’expression. Toute apparition du signe par un tiers n’est pas automatiquement une contrefaçon : examinez l’usage commercial, l’origine du produit, la confusion, le droit de la concurrence et la liberté d’expression applicable.",
+            "ru": "Интернет-споры требуют определить, кто использовал знак: рекламодатель, поисковая система, продавец или владелец сайта. Лекция рассматривает ключевые слова и поисковую выдачу, репутационный вред, перепродажу товаров и невозможность абсолютного запрета онлайн-продаж в определённых условиях. Отдельные слайды обсуждают пародию, сравнительную рекламу и свободу выражения. Не каждый показ знака третьим лицом является нарушением: выясните коммерческий характер, источник товара, риск смешения, ограничения конкуренции и применимую свободу выражения."
+          },
+          "sources": [
+            {
+              "file": "4-Séance 08 - Le droit des marques.pdf",
+              "pages": [
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Déchéance, signes d’usage et noms de domaine",
+            "ru": "Утрата прав, знаки использования и домены"
+          },
+          "t": {
+            "fr": "Le cours distingue renouvellement, déchéance pour défaut d’usage, dégénérescence et protection de signes non enregistrés par concurrence déloyale. Vérifiez l’usage réel et la perception du public. Pour un nom de domaine conflictuel, les slides évoquent action en contrefaçon, revendication/transfert du domaine, concurrence parasitaire et procédures UDRP/AFNIC. Choisissez la voie selon l’extension et le résultat recherché : transfert, cessation ou indemnisation.",
+            "ru": "Курс отдельно рассматривает продление, déchéance за неиспользование, вырождение знака в обычное обозначение и защиту знаков, не зарегистрированных как марка, через недобросовестную конкуренцию. Изучите фактическое использование и восприятие публикой. Для доменного имени с конфликтующим знаком материалы называют судебный иск о нарушении, требование о передаче домена, недобросовестную конкуренцию и административные процедуры UDRP/AFNIC. Выберите путь с учётом зоны и желаемого результата: передача, прекращение использования или возмещение."
+          },
+          "sources": [
+            {
+              "file": "4-Séance 08 - Le droit des marques.pdf",
+              "pages": [
+                72,
+                73,
+                74,
+                75,
+                76,
+                81,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90
+              ]
+            }
+          ]
         }
       ],
       "example": {
@@ -2457,6 +3563,7 @@
           "pages": [
             4,
             5,
+            6,
             7,
             9,
             10,
@@ -2467,8 +3574,11 @@
             24,
             25,
             26,
+            27,
             28,
             29,
+            30,
+            31,
             33,
             34,
             35,
@@ -2480,22 +3590,50 @@
             41,
             42,
             43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
             53,
             54,
+            56,
+            57,
             59,
             60,
             61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
             68,
+            69,
+            70,
+            71,
             72,
             73,
+            74,
+            75,
             76,
             77,
             78,
+            79,
+            80,
             81,
             83,
             84,
             85,
-            89
+            86,
+            87,
+            88,
+            89,
+            90
           ]
         }
       ],
@@ -2676,93 +3814,275 @@
       "blocks": [
         {
           "h": {
-            "fr": "Du projet SAFARI au RGPD",
-            "ru": "От SAFARI к RGPD"
+            "fr": "Historique et repères chronologiques du cours",
+            "ru": "История защиты данных и временная рамка курса"
           },
           "t": {
-            "fr": "La présentation évoque SAFARI (1974), la loi Informatique et Libertés (1978), la directive européenne (1995), puis le règlement 2016/679 appliqué en France à partir du 25 mai 2018 et la CNIL.",
-            "ru": "Презентация упоминает SAFARI (1974), закон Informatique et Libertés (1978), директиву ЕС (1995), затем регламент 2016/679, применяемый во Франции с 25 мая 2018 года, и CNIL."
-          }
+            "fr": "Le cours part du projet SAFARI et de la loi française Informatique et Libertés de 1978, puis évoque la directive européenne 95/46 et l’adoption du RGPD en 2016, appliqué en France à partir de 2018. Cette histoire explique l’émergence des principes et de l’autorité CNIL. Il s’agit de la chronologie pédagogique des slides, non d’une mise à jour automatique du droit actuel. À l’examen, restituez les supports sans transformer leurs repères historiques en conseil juridique contemporain.",
+            "ru": "Лекция начинает с проекта SAFARI и французского закона Informatique et Libertés 1978 года, затем прослеживает европейскую директиву 95/46 и принятие RGPD в 2016 году с французским применением с 2018 года. Используйте историю, чтобы понимать, почему появились принципы и контрольный орган CNIL. Это хронология учебных слайдов; сами даты не обновляют автоматически современное состояние законодательства. В экзамене отвечайте по лекции, а не смешивайте её исторические пояснения с современной юридической консультацией."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                4,
+                5,
+                7,
+                8,
+                9,
+                15
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Définition et champ",
-            "ru": "Определение и сфера действия"
+            "fr": "Quand une information est-elle une donnée personnelle ?",
+            "ru": "Когда сведения являются персональными данными"
           },
           "t": {
-            "fr": "Donnée personnelle : information se rapportant à une personne physique identifiée ou identifiable, directement ou indirectement (photo, IP, adresse, identifiant, localisation, recoupement). Un traitement peut être manuel : un fichier papier est concerné. Le support cite aussi des données sensibles et le champ matériel/territorial.",
-            "ru": "Персональные данные — информация о прямо или косвенно идентифицированном/идентифицируемом физическом лице (фото, IP, адрес, идентификатор, местоположение, сочетание сведений). Обработка может быть ручной: бумажный файл тоже подпадает под правила. Отдельно названы специальные категории и материальная/территориальная сфера."
-          }
+            "fr": "Une donnée personnelle est une information se rapportant à une personne physique identifiée ou identifiable. L’identification peut être directe (nom) ou indirecte, lorsque plusieurs éléments permettent de distinguer une personne. Une photo, un identifiant, une adresse, une localisation ou des traces d’activité peuvent ainsi se rapporter à quelqu’un sans afficher son nom. Le cours retient une conception large. Ne confondez pas ces données avec les informations concernant une personne morale en tant que telle.",
+            "ru": "Персональные данные — информация об идентифицированном или идентифицируемом физическом лице. Идентификация бывает прямой (например, имя) или косвенной, когда набор признаков позволяет выделить человека. Поэтому фото, идентификатор устройства, адрес, геолокация или сведения о действиях могут относиться к человеку даже без явного имени. Курс подчёркивает широкое понимание и приводит примеры данных. Не путайте персональные данные с информацией о юридическом лице как таковом."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                19,
+                21,
+                22,
+                24,
+                25
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Six bases et six principes",
-            "ru": "Шесть оснований и шесть принципов"
+            "fr": "Qu’est-ce qu’un traitement ?",
+            "ru": "Что является обработкой"
           },
           "t": {
-            "fr": "Bases : consentement, contrat, obligation légale, mission d’intérêt public, intérêts légitimes et intérêts vitaux. Principes : licéité/loyauté/transparence, finalité, minimisation, exactitude, conservation limitée, sécurité/confidentialité. Le responsable doit pouvoir démontrer la conformité (accountability).",
-            "ru": "Основания: согласие, договор, юридическая обязанность, задача в общественных интересах, законный интерес, жизненно важные интересы. Принципы: законность/добросовестность/прозрачность, цель, минимизация, точность, ограничение хранения, безопасность/конфиденциальность. Контролёр доказывает соответствие (accountability)."
-          }
+            "fr": "Un « traitement » couvre les opérations sur les données : collecte, enregistrement, organisation, conservation, consultation, usage, transmission, limitation ou effacement. Un acte isolé peut être un traitement ; une grande base automatisée n’est pas nécessaire. Cartographiez donc le cycle complet du projet, de la collecte à la suppression, les systèmes et destinataires. Les slides abordent séparément les données sensibles et le champ d’application : qualifiez d’abord données et opération, puis examinez base légale et principes.",
+            "ru": "«Обработка» охватывает операции с данными: сбор, запись, систематизацию, хранение, просмотр, использование, передачу, ограничение или удаление. Даже единичное действие может подпадать под понятие обработки; не требуется сложная автоматизированная база. Поэтому для проекта нарисуйте весь цикл: от получения сведений до удаления, перечислите системы и получателей. В слайдах отдельно рассматриваются чувствительные данные и сфера действия режима; сначала квалифицируйте данные и операцию, затем переходите к основанию и принципам."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                21,
+                22,
+                24,
+                25,
+                26
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Droits et conformité",
-            "ru": "Права и соответствие"
+            "fr": "Les six bases légales",
+            "ru": "Шесть правовых оснований"
           },
           "t": {
-            "fr": "Les supports décrivent information, accès, rectification, effacement (avec exceptions), opposition, limitation et portabilité. Le responsable détermine finalités/moyens ; le sous-traitant agit pour son compte. Le DPO informe, conseille, sert d’interface, documente et contrôle. Outils : registre, AIPD, privacy by design/default et notification de certaines violations sous 72 heures selon la présentation.",
-            "ru": "Материалы описывают права на информацию, доступ, исправление, удаление (с исключениями), возражение, ограничение и переносимость. Контролёр определяет цели/средства; обработчик действует от его имени. DPO информирует, консультирует, связывает стороны, документирует и контролирует. Инструменты: реестр, AIPD, privacy by design/default и уведомление о некоторых нарушениях в течение 72 часов по презентации."
-          }
+            "fr": "Le cours énumère six bases : consentement, contrat, obligation légale, intérêts vitaux, mission d’intérêt public/autorité publique et intérêts légitimes. Choisissez la base pour la finalité réelle, pas après coup. Le consentement n’est qu’une base ; il ne faut pas le demander automatiquement lorsque le traitement est réellement nécessaire au contrat ou imposé par la loi. Si la finalité change, réexaminez la base. Dans une réponse, décrivez la finalité et justifiez le lien avec le fondement choisi.",
+            "ru": "Лекция перечисляет шесть оснований: согласие, исполнение договора, юридическая обязанность, жизненно важные интересы, задача в общественных интересах/публичные полномочия и законные интересы. Основание выбирают под конкретную цель обработки, а не задним числом. Согласие — только одно из оснований, поэтому нельзя запрашивать его автоматически, если проект фактически необходим для договора или установлен законом. Если цель меняется, основание тоже нужно пересмотреть. В ответе укажите фактическую цель и объясните соответствие выбранного основания."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                29
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Organes de contrôle",
-            "ru": "Надзорные органы"
+            "fr": "Les six principes à chaque étape",
+            "ru": "Шесть принципов на каждом этапе"
           },
           "t": {
-            "fr": "La présentation distingue CNIL, Comité européen de la protection des données (CEPD) et CJUE. Les chiffres d’effectifs, plaintes et contrôles de la présentation sont historiques, pas des statistiques actuelles.",
-            "ru": "В презентации различаются CNIL, Европейский комитет по защите данных (CEPD) и Суд ЕС. Числа сотрудников, жалоб и проверок исторические, не текущая статистика."
-          }
+            "fr": "Les slides proposent six contrôles : licéité, loyauté et transparence ; limitation des finalités ; minimisation ; exactitude ; limitation de conservation ; sécurité et confidentialité. Pour chaque catégorie, consignez finalité, base, volume minimal, mise à jour, délai d’effacement et contrôle des accès. Ce n’est pas un contrôle ponctuel au lancement : changement de produit, destinataires ou durée impose une nouvelle analyse. Ne conservez pas des données « au cas où » sans finalité déterminée.",
+            "ru": "Слайды сводят обработку к шести проверкам: законность, добросовестность и прозрачность; ограничение цели; минимизация; точность; ограничение срока хранения; безопасность и конфиденциальность. Практический способ — для каждой категории данных записать цель, основание, минимальный объём, точность/обновление, срок удаления и меры доступа. Это не разовая проверка при запуске: изменение продукта, новых получателей или срока хранения требует повторного анализа. Не храните данные «на будущее» без определённой цели."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                30,
+                31
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Reconnaître une donnée et un traitement",
-            "ru": "Распознаём персональные данные и обработку"
+            "fr": "Droits des personnes et réponse aux demandes",
+            "ru": "Права человека и ответы на запросы"
           },
           "t": {
-            "fr": "Une donnée personnelle se rapporte à une personne physique identifiée ou identifiable ; l’identification peut être indirecte par combinaison d’informations. Un traitement couvre des opérations telles que collecte, enregistrement, conservation, consultation, utilisation, transmission ou effacement. Les diapositives abordent aussi les données sensibles et le champ d’application : qualifiez la donnée et l’opération concrètes avant d’analyser la base légale.",
-            "ru": "Персональные данные относятся к идентифицированному или идентифицируемому физическому лицу; идентификация может быть косвенной, через сочетание сведений. Обработка включает такие операции, как сбор, запись, хранение, просмотр, использование, передача или удаление. Слайды также рассматривают специальные категории и сферу применения: сначала квалифицируйте конкретные данные и действие, затем анализируйте правовое основание."
-          }
+            "fr": "La leçon étudie information, accès, rectification, effacement, opposition, limitation et portabilité. Ces droits n’ont ni les mêmes conditions ni les mêmes exceptions. À réception d’une demande, vérifiez l’identité de manière proportionnée, identifiez les données et traitements concernés, contrôlez les restrictions et répondez clairement. Les slides indiquent un délai d’un mois. Si l’effacement total est impossible en raison d’une obligation de conservation, expliquez pourquoi et limitez l’usage au lieu de promettre l’impossible.",
+            "ru": "Лекция разбирает информирование, доступ, исправление, стирание, возражение, ограничение обработки и переносимость. Это не одна универсальная кнопка: основания, ограничения и исключения различаются. Получив запрос, подтвердите личность в соразмерной мере, определите, какие данные и обработка затронуты, проверьте исключения и ответьте понятным образом. В слайдах установлен месячный срок ответа. Если полное удаление невозможно из-за обязанности хранения, нужно объяснить причину и ограничить использование, а не обещать невозможное."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                32,
+                33,
+                35,
+                36,
+                37,
+                38
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Choisir une base légale et appliquer les principes",
-            "ru": "Выбрать правовое основание и соблюдать принципы"
+            "fr": "Responsable, sous-traitant et responsabilité",
+            "ru": "Оператор, обработчик и ответственность"
           },
           "t": {
-            "fr": "Le support liste six bases : consentement, contrat, obligation légale, intérêts vitaux, mission d’intérêt public/autorité publique et intérêts légitimes. Il faut choisir celle qui correspond réellement à la finalité ; le consentement n’est pas l’unique base. Puis contrôlez les six principes enseignés : licéité/transparence, finalités déterminées, minimisation, exactitude, limitation de conservation et sécurité/confidentialité.",
-            "ru": "Материалы перечисляют шесть оснований: согласие, договор, юридическая обязанность, жизненно важные интересы, общественная задача/публичные полномочия и законные интересы. Выбирайте основание, которое действительно соответствует цели; согласие — не единственный вариант. Затем проверьте шесть принципов курса: законность/прозрачность, определённые цели, минимизация, точность, ограничение хранения, безопасность/конфиденциальность."
-          }
+            "fr": "Le responsable du traitement détermine les finalités et les moyens essentiels ; le sous-traitant agit pour son compte selon des instructions documentées. Plusieurs acteurs peuvent participer : qualifiez leurs décisions réelles, pas seulement l’étiquette du contrat. L’accountability impose de pouvoir démontrer la conformité : répartissez les rôles, documentez les choix et contrôlez le prestataire. Le contrat et les procédures internes contribuent à la conformité sans supprimer les obligations du responsable.",
+            "ru": "Оператор определяет цели и основные способы обработки; обработчик действует от имени оператора по его документированным указаниям. Один проект может включать нескольких участников, поэтому анализируйте реальные решения, а не только название роли в договоре. Принцип accountability требует уметь доказать соблюдение правил: распределите ответственность, ведите документацию и контролируйте подрядчика. Договор с обработчиком и внутренние процедуры — часть соответствия, но не отменяют обязанности оператора."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                65,
+                66,
+                67,
+                69,
+                74
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Droits des personnes et délais du support",
-            "ru": "Права людей и сроки из материалов"
+            "fr": "Protection dès la conception, DPO, registre et analyse d’impact",
+            "ru": "Privacy by design, DPO, реестр и оценка воздействия"
           },
           "t": {
-            "fr": "Les diapositives recensent information, accès, rectification, effacement, opposition, limitation et portabilité, avec des conditions qui varient selon le droit invoqué. Le délai de réponse d’un mois est celui indiqué dans le support. Dans une réponse, ne promettez pas l’effacement sans vérifier les obligations de conservation ou les exceptions ; expliquez à la personne le résultat et les voies de recours décrites par le cours.",
-            "ru": "Слайды перечисляют право на информацию, доступ, исправление, удаление, возражение, ограничение обработки и переносимость; условия зависят от конкретного права. В материалах указан срок ответа один месяц. Не обещайте удаление, не проверив обязанности по хранению и исключения; сообщите человеку результат и способы защиты, указанные в курсе."
-          }
+            "fr": "Les supports présentent protection dès la conception et par défaut : limiter la collecte dès l’architecture et choisir des réglages protecteurs. Le DPO conseille et facilite les échanges avec l’autorité dans les cas étudiés. Le registre décrit les traitements ; l’analyse d’impact évalue les risques élevés et les mesures avant le traitement. Ces outils se complètent : documenter le projet, apprécier les risques, concevoir les mesures, attribuer les responsabilités et conserver la preuve.",
+            "ru": "В материалах представлены защита данных при проектировании и по умолчанию: минимизировать сбор уже на этапе архитектуры и выбирать настройки, ограничивающие доступ. DPO помогает организовать соответствие и контакт с надзорным органом в случаях, предусмотренных курсом. Реестр фиксирует операции; оценка воздействия анализирует высокие риски и меры до начала обработки. Это взаимосвязанные инструменты: проект описывают в реестре, риск оценивают, меры проектируют, ответственность назначают и результаты документируют."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                65,
+                69,
+                74,
+                75,
+                78
+              ]
+            }
+          ]
         },
         {
           "h": {
-            "fr": "Organiser la conformité : responsables et preuves",
-            "ru": "Организовать соблюдение: ответственные и доказательства"
+            "fr": "Violation de données et autorités de contrôle",
+            "ru": "Утечка данных и контрольные органы"
           },
           "t": {
-            "fr": "Le responsable du traitement détermine finalités et moyens ; le sous-traitant agit pour son compte selon les instructions et le cadre prévu. Le cours développe accountability, protection dès la conception et par défaut, DPO, registre, analyse d’impact lorsque requise et notification des violations. Les slides indiquent 72 heures pour la notification à l’autorité dans les conditions enseignées ; consignez les faits et suivez le processus interne.",
-            "ru": "Оператор определяет цели и способы обработки; обработчик действует от его имени по инструкциям и установленным условиям. Курс раскрывает подотчётность, защиту на стадии проектирования и по умолчанию, DPO, реестр, оценку воздействия в необходимых случаях и уведомление об утечках. В слайдах указан срок 72 часа для уведомления органа при изложенных условиях; фиксируйте обстоятельства и следуйте внутренней процедуре."
-          }
+            "fr": "Les slides demandent une réponse organisée à une violation : établir les faits, données, personnes concernées et risques, consigner l’incident et suivre la procédure interne. Le cours indique un délai de 72 heures pour notifier l’autorité sous les conditions présentées ; ne le confondez pas avec le mois prévu pour certaines demandes des personnes. La leçon présente ensuite CNIL, Comité européen de la protection des données et CJUE. Les sanctions précises doivent être rattachées à la version des supports.",
+            "ru": "Слайды требуют организовать реакцию на нарушение безопасности: быстро установить факт, тип данных, затронутых людей и риск, зафиксировать инцидент и применить внутренний план. В курсе указан срок 72 часа для уведомления надзорного органа при соответствующих условиях; не смешивайте его с месячным сроком ответа человеку на запрос о правах. Лекция завершает тему ролями CNIL, европейского совета по защите данных и суда ЕС. Конкретные санкции и текущие полномочия сверяйте с редакцией материалов."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                79,
+                80,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Специальные категории и сфера действия",
+            "ru": "Catégories particulières et champ d’application"
+          },
+          "t": {
+            "fr": "Лекция отдельно выделяет чувствительные данные и требует учитывать сферу действия режима. RGPD охватывает автоматизированную обработку полностью или частично, а также неавтоматизированные данные, содержащиеся или предназначенные для включения в файл. Слайды перечисляют исключения, в том числе строго личную/домашнюю деятельность и специальные государственные функции. Не делайте вывод, что любой файл или частная запись всегда подпадает под один и тот же режим; сначала выясните, кто обрабатывает, в каком контексте, какие данные и в какой системе.",
+            "ru": "Le support traite séparément les données sensibles et le champ d’application. Le RGPD vise les traitements automatisés en tout ou partie et les données non automatisées contenues ou destinées à figurer dans un fichier. Les slides évoquent des exclusions, notamment l’activité strictement personnelle ou domestique et certaines fonctions publiques particulières. Ne supposez pas que toute note privée ou tout fichier relève de façon identique du régime : identifiez acteur, contexte, données et système."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                24,
+                25,
+                26
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Согласие должно быть конкретным",
+            "ru": "Le consentement doit être spécifique"
+          },
+          "t": {
+            "fr": "Когда организация выбирает согласие как основание, слайды требуют, чтобы оно было свободным, конкретным, информированным и однозначным. Значит, человек должен понимать, на какую цель и какие данные он соглашается; заранее отмеченный вариант или объединённое согласие на несвязанные цели плохо соответствует описанной логике. Если согласие нельзя свободно отозвать без ущерба основному договору, проверьте, не лучше ли подходит другое законное основание. Документируйте выбор, текст уведомления и способ отзыва.",
+            "ru": "Lorsque l’organisme choisit le consentement, les slides exigent un consentement libre, spécifique, éclairé et univoque. La personne doit donc comprendre les données et la finalité concernées ; une case précochée ou un accord regroupant des objectifs sans lien cadre mal avec cette logique. Si le consentement ne peut être retiré librement sans compromettre le contrat principal, vérifiez si une autre base légale convient mieux. Conservez la preuve du choix, de l’information et du retrait."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                29
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Сайт, cookies, рассылка и цифровые следы",
+            "ru": "Sites web, cookies, prospection et traces numériques"
+          },
+          "t": {
+            "fr": "Отдельный раздел лекции связывает интернет с правилами о сайтах, cookies, коммерческих рассылках и данных подключения. При анализе веб-сервиса перечислите, какие идентификаторы и журналы собираются, зачем, кто получает сведения и как долго они хранятся. Не сводите соблюдение правил к баннеру согласия: одновременно проверяются цель, правовое основание, минимизация, срок хранения, прозрачность и меры безопасности. Слайды лишь очерчивают эти темы; детали конкретной реализации нужно сопоставлять с материалами курса и условиями сервиса.",
+            "ru": "Une partie du cours relie Internet aux sites web, cookies, sollicitations commerciales et données de connexion. Pour un service en ligne, listez identifiants et journaux collectés, finalité, destinataires et durée de conservation. La conformité ne se réduit pas à une bannière de consentement : finalité, base légale, minimisation, durée, transparence et sécurité doivent aussi être examinées. Les slides signalent ces thèmes sans détailler chaque configuration technique ; analysez le service concret au regard du cours."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                44
+              ]
+            }
+          ]
+        },
+        {
+          "h": {
+            "fr": "Передача данных за пределы ЕС в изложении курса",
+            "ru": "Transferts hors UE selon le support"
+          },
+          "t": {
+            "fr": "Лекция различает передачу внутри ЕС и за его пределы, а для третьей страны — наличие признанного достаточного уровня защиты и дополнительные гарантии. Материалы ссылаются на споры Schrems и показывают, что внутригрупповая передача также остаётся передачей данных. Используйте этот раздел как схему вопросов: куда поступают сведения, кто их получает, какой механизм разрешает передачу и как сохраняется защита. Слайды исторические и не содержат полного обзора последующих решений или актуального статуса каждой страны; прямо обозначайте эту границу.",
+            "ru": "Le cours distingue les transferts au sein de l’UE et vers les pays tiers, puis examine l’adéquation du niveau de protection et les garanties. Les slides mentionnent les affaires Schrems et rappellent qu’un transfert intragroupe reste un transfert. Appliquez cette grille : destination, destinataire, mécanisme autorisant le transfert et maintien de garanties. Les diapositives sont datées et ne recensent pas toutes les décisions ultérieures ni le statut actuel de chaque pays ; indiquez cette limite."
+          },
+          "sources": [
+            {
+              "file": "LES DONNEES  A  CARACTERE  PERSONNEL.pdf",
+              "pages": [
+                49,
+                54,
+                59
+              ]
+            }
+          ]
         }
       ],
       "example": {
@@ -2784,6 +4104,7 @@
             22,
             24,
             25,
+            26,
             29,
             30,
             31,
@@ -2793,6 +4114,10 @@
             36,
             37,
             38,
+            44,
+            49,
+            54,
+            59,
             65,
             66,
             67,
